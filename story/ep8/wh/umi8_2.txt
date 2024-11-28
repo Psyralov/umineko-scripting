@@ -16,7 +16,7 @@
 `"Muy cierto.`
 ` Creo que también está bastante más nublado.`
 ` ... ¡Battler‐kun, Maria‐chan!`
-` Deberíamos tomar un descanso pronto y volver a la casa de invitados por el momento."`
+` Deberíamos tomar un descanso pronto y volver a la casa de huéspedes por el momento."`
 `"¿Uu? ¡No quiero!`
 ` ¡¡Quiero jugar más!!"`
 `"Oye, obedece a tu primo.`
@@ -41,7 +41,7 @@
 ` pero de cierta forma su expresión mostraba que algo la tenía insatisfecha.`
 `A pesar de eso, Ange no dijo qué era, y a Battler no se le ocurrió nada,`
 ` ese era el límite de lo que podía averiguar.`
-`Así que apretó su pequeña mano, dejándole saber silenciosamente que podría decírselo tan pronto se sintiera preparada...`
+`Así que apretó su pequeña mano, dejándole saber silenciosamente que podía decírselo tan pronto se sintiera lista para hacerlo...`
 `Había parecido un día tan brillante y soleado hasta hace poco...`
 `Pero el cielo se tornó gris, y el viento comenzó a sentirse más molesto que reconfortante.`
 `Si se dejaran estar, podrían tener que lidiar con gotas dispersas también.`
@@ -53,7 +53,7 @@
 `"Ijiji.`
 ` Aunque sólo ganaste porque te di la mía."`
 `"¡Uu!`
-` ¡La conseguí, así que es mía!`
+` ¡La conseguí, es mía!`
 ` ¡Así que gané!`
 ` ¡¡Uu‐uu‐uu!!"`
 `Ange caminaba distraída, llevada de la mano por su hermano.`
@@ -63,13 +63,13 @@
 `"¡¡Mamá!! ¡¡Mira!!`
 ` ¡¡Gané!!"`
 `Saludando con una mano y gritando, María corrió.`
-`{n}Rosa también saludaba desde la entrada de la casa de invitados.`
-`"Volveré a mi habitación un momento.`
+`{n}Rosa también saludaba desde la entrada de la casa de huéspedes.`
+`"Volveré a mi cuarto un momento.`
 ` Los veo en la habitación de los primos después de eso."`
 `"Bien, entendido.`
 ` Hasta más tarde entonces."`
 `Jessica se apresuró a la mansión.`
-`George se dio vuelta, como sugiriendo al resto que mejor se fueran también.`
+`George dio media vuelta, como sugiriendo al resto que mejor se fueran también.`
 `Sin embargo, cuando vio a Ange quieta con una mirada áspera,`
 ` se dio cuenta de que algo podría haberla puesto de mal humor.`
 `"... ¿Está todo bien?"`
@@ -77,20 +77,20 @@
 ` Lo siento, pero... ¿les importaría adelantarse?"`
 `"Claro, por supuesto.`
 ` Los veo luego."`
-`George se dirigió a la casa de invitados.`
-`Los únicos que quedaron en el jardín de rosas fueron Battler, quien saludaba a George... y Ange, que aún estaba mirando al suelo de la mano con él.`
+`George se dirigió a la casa de huéspedes.`
+`Los únicos que quedaron en el jardín de rosas fueron Battler, quien saludaba a George... y Ange, que aún miraba al suelo mientras sujetaba su mano.`
 `Llevaba ya unos minutos preguntándole reiteradamente a Ange qué era lo que pasaba.`
-`Entendió que no se trataba de un dolor de estómago, o algo que obviamente podría haberla hecho enfadar.`
+`Entendió que no se trataba de un dolor de estómago, o algo que evidentemente podría haberla hecho enfadar.`
 `Aún así, las chicas jóvenes a veces se molestan por razones que solo ellas entienden.`
 `Battler sabía esto, así que no intentó apresurarla.`
-` Mientras tanto, admiraba los hermosos rosales sosteniendo su mano.`
+` En cambio, admiraba los hermosos rosales sosteniendo su mano.`
 `"... Onii‐chan."`
 `"... ¿Qué pasa?"`
 `"¿Qué...`
 ` es este lugar?"`
 `Preguntó...`
 ` como si estuviera hablando sobre algo al otro lado de la pantalla plateada.`
-`Aunque Battler endendió lo que esa pregunta significaba, se hizo el tonto.`
+`Aunque Battler entendió lo que esa pregunta significaba, se hizo el tonto.`
 `"¿Cómo que ‘qué’?`
 ` Es Rokkenjima."`
 `"No, no lo es."`
@@ -106,13 +106,13 @@
 `"No miento."`
 `"¡¿Cómo se supone que esta sea la verdad?!"`
 `Escupió esas palabras.`
-` Pero a pesar de eso, la expresión de Battler se mantuvo calmada y serena.`
+` Pero a pesar de eso, la expresión de Battler permaneció serena.`
 `"... ¿Qué es lo que no te gusta?"`
 `"¡Para empezar, Ushiromiya Kinzo!`
 ` ¡No hay manera de que él fuera así, y lo sabes!"`
 `"Acaba de reencontrarse con sus nietos por primera vez en mucho tiempo.`
 ` ... Creo que cualquier abuelo sonreiría en una situación así."`
-`"Ushiromiya Kinzo, no. ¡¡Él no era esa clase de persona!!`
+`"Ushiromiya Kinzo no. ¡¡Él no era esa clase de persona!!`
 ` Ushiromiya Kinzo era..."`
 `"¿Estricto, descontento, recluido y temperamental?"`
 `"¡¡Conque sí lo entiendes!!`
@@ -134,7 +134,7 @@
 `Ange entendió lo que su hermano intentaba decirle.`
 ` ... Sin embargo, no podía aceptarlo.`
 `"Es cierto que Ushiromiya Kinzo era un hombre estricto.`
-` Cuando jóven, realmente arremetía contra sus hijos, aparentemente.`
+` Cuando jóven, arremetía contra sus hijos, aparentemente.`
 ` ... Fue muy traumático para ese viejo bastardo y sus hermanos... Podrías decir que incluso ahora le guardan un poco de temor...`
 ` y, bueno, no estarías equivocada."`
 `La gran historia sobre cómo Kinzo había restaurado la familia Ushiromiya era más que suficiente para retratarlo como un hombre implacable y aterrador.`
@@ -154,13 +154,13 @@
 ` Pero no habrá sido más que un capricho de Kinzo...`
 `Mis padres me lo decían todo el tiempo.`
 `... El abuelo es una persona aterradora, asegúrate de no arruinarlo.`
-`... Siempre, siempre decían... que es muy aterrador. Así que, con cuidado...`
+`... Siempre, siempre decían... que era muy aterrador. Así que, con cuidado...`
 `"... Y eso significa...`
 ` que él daba miedo..."`
-`"Cuando eras pequeña, nunca cuestionaste a tus padres ni lo que te decían... podría decirse que eras una niña obediente,`
-` … pero también demasiado imaginativa.`
-` ... papá y los demás sólo querían que comprendieras la importancia de ser alguien educado."`
-`"... ¡Pero yo... yo lo vi!I`
+`"Cuando eras pequeña, nunca cuestionaste a tus padres ni lo que te decían... eras una niña obediente...`
+` pero también demasiado imaginativa.`
+` ... Papá y los demás sólo querían que comprendieras la importancia de ser alguien educado."`
+`"... ¡Pero yo... yo lo vi!`
 ` ¡Lo sabía!`
 ` ¡Sabía que Ushiromiya Kinzo era una persona aterradora!`
 ` ¡¡Hasta lo vi gritar de ira!!`
@@ -169,30 +169,30 @@
 ` ... Podría haber estado intentando sorprenderte.`
 ` O se le podría haber escapado mientras tenía alguna discusión seria con sus hijos."`
 `"Y piensas que sólo me asusté sin motivo...`
-` ¿Y tuve una idea equivocada?"`
+` ¿Y me hice una idea equivocada?"`
 `"..."`
 `"¡No puede ser! ¡¡Eso no puede ser!!`
 ` Es decir, ¡aún lo recuerdo!`
 ` ¡Recuerdo haber visto a Ushiromiya Kinzo gritar y dar miedo!`
 ` Mamá y papá también estaban asustados, ¡¡así que sé que estoy en lo correcto!!"`
 `"... Te quedaste con la impresión que tenías del abuelo cuando eras jóven, y dicha impresión creció dentro de ti a medida que te volviste mayor."`
-`¿Cuántas veces vió Ange a Kinzo en su vida?`
+`¿Cuántas veces vio Ange a Kinzo en su vida?`
 `{n}¿Qué edad tenía la última vez que lo vio?`
 `Ange, quien se enfermaba fácilmente bajo mucho estrés, no podría haber ido a Rokkenjima muy seguido.`
-`Y, ya que había estado ausente para la conferencia familiar que tuvo lugar a sus seis años, sus últimas memorias de él deben ser de cuándo apenas tenía 5 años.`
+`Y, ya que había estado ausente para la conferencia familiar que tuvo lugar a sus seis años, las últimas memorias de su abuelo deben ser de cuándo apenas tenía 5 años.`
 `"P-pero incluso tú...`
 ` no has visto a Ushiromiya Kinzo por seis años."`
 `"Muy cierto.`
-` Pero cuando finalmente volvió tras seis años,`
-` ... vi que el abuelo no había cambiado en lo absoluto."`
+` Pero cuando finalmente volví tras seis años...`
+` vi que el abuelo no había cambiado en lo absoluto."`
 `"Kinzo era... inestable, por lo que nunca se podía entender lo que estaba pensando...`
-` y era un excéntrico con un espeluznante amor por el ocultismo, y..."`
+` Y era un excéntrico con un espeluznante amor por el ocultismo, y..."`
 `"Es cierto que amaba el ocultismo.`
 ` Era un pasatiempo de lo más extraño en lo cual sumirse durante sus últimos años.`
 ` ... Y admitiré que su pasatiempo de coleccionar objetos extraños para asustar a sus nietos no era precisamente digno de elogio."`
 `En su momento, Kinzo le había jugado bromas incluso a Battler.`
 `Me mostró un maletín que contenía siete extrañas estacas...`
-` y había dicho algo sobre cómo en la Edad Media las usaban en rituales para atravesar y arrancarles el corazón.`
+` y había dicho algo sobre cómo las brujas en la Edad Media las usaban en rituales para atravesar y arrancar el corazón.`
 `La primera vez que me enseñó eso, me aterré bastante. Pero, en retrospectiva, realmente era el tipo de broma que sólo podía engañar a un niño.`
 `El abuelo sólo asustaba a sus nietos... porque quería jugar con ellos.`
 `"Estaría dispuesto a apostar... que el abuelo te jugó una broma de ese estilo a ti también.`
@@ -208,13 +208,13 @@
 `"¡¿Estás diciendo que recibí regalos alguna vez?!`
 ` ¡¡No recuerdo nada de eso!!`
 ` ¡Algo así nunca pasaría!"`
-`"... ¿Realmente crees que padre, un hombre tan arraigado al ocultismo y las tradiciones occidentales, no celebraría Halloween?`
+`"... ¿Realmente crees que el abuelo, un hombre tan arraigado al ocultismo y las tradiciones occidentales, no celebraría Halloween?`
 ` ... Ese “Happy Halloween” suyo era prácticamente lo estándar en nuestras conferencias familiares.`
 ` ... Debiste haber recibido uno."`
 `"... La juventud puede ser tan cruel.`
 ` El abuelo debe haber puesto todo su corazón en elegir ese presente para ti... pero al parecer tu corazón no lo recordó."`
 `"¡¿Dices que sólo era muy jóven para recordar...`
-` y que... que {i:esa}... es la verdad de 4 de Octubre?!"`
+` y que... {i:esa}... es la verdad del 4 de Octubre?!"`
 `Ese día, tal y como hace seis años,`
 ` el abuelo irrumpió en el salón al grito de “Happy Halloween”.`
 `Entonces, él y yo intercambiamos presentes... mientras él derramaba lágrimas en honor a nuestra tan esperada reunión tras una brecha de seis años.`
@@ -223,31 +223,31 @@
 `"¡Nunca escuché de un regalo como ese!`
 ` ¡¡Nunca obtuve uno!!"`
 `"... Cierto.`
-` ... Ella nunca... tuvo la chance de..."`
+` ... Ella nunca... tuvo una chance para..."`
 `"¡¡No me lo creo!!`
 ` ¡No creeré que ese era Ushiromiya Kinzo!`
 ` Entonces, ¡¿qué hay de la conferencia familiar en sí?!`
 ` ¡¿No se trataba de un intenso debate en torno a la distribución de la herencia?!"`
-`"¡Todos los hermanos adultos se encontraban en problemas monetarios!`
+`"¡Todos los hermanos se encontraban en problemas monetarios!`
 ` ¡Por lo que depredaban el dinero de la herencia de Kinzo...!"`
 `"... Ange, ¿de dónde sacaste eso?"`
 `"¡¿Cómo que de dónde?!`
 ` ¡Es la verdad! ¡¿O no?!"`
 `"¿En serio crees que papá te hablaría sobre los problemas financieros de su compañía a esa edad...?`
-` Y no sólo papá..`
-` Incluso si el tío Krauss, la tía Eva, y la tía Rosa hablaran sobre sus problemas financieros y sobre cómo querían la herencia de Kinzo,`
-` ... ¿realmente crees que lo habrían discutido enfrente de ti...?"`
+` Y no sólo papá...`
+` Incluso si el tío Krauss, o las tías Eva y Rosa hablaran sobre sus problemas financieros y sobre cómo querían la herencia de Kinzo...`
+` ¿realmente crees que lo habrían discutido frente a ti...?"`
 `"P-pero...`
-` ¡es la verdad! ¡¿O no?!"`
+` ¡es la verdad! ¡¿No?!"`
 `Ese era el meollo del asunto.`
 `{n}Las palabras de Ange eran inequívocas.`
 `No solo Rudolf, sino Krauss, Hideyoshi, y Rosa también... todos tenían grandes problemas monetarios en sus compañías.`
-`... La gente comenzó a hablar sobre La Gran Explosión de Rokkenjima como si de una conspiración se tratase,`
-` ... y un “misterio” imaginado por el público cubrió la isla.`
+`... La gente comenzó a hablar sobre La Gran Explosión de Rokkenjima como si de una conspiración se tratase...`
+` y un “misterio” imaginado por el público cubrió la isla.`
 `Revistas semanales y shows de televisión investigaron las circunstancias de los hijos de Kinzo en ese momento, y en el futuro en el que vivía Ange, dicha investigación se había vuelto pública.`
 `"... Todo eso lo aprendiste... después de 1986."`
 `"Pero son hechos, ¿o no?`
-` ¡No hay diferencias entre los hechos y la verdad!"`
+` ¡No hay diferencia entre los hechos y la verdad!"`
 `"¿Y acaso todo eso prueba que la herencia creó una atmósfera tensa entre los familiares en Rokkenjima?`
 ` ... Supongo que encaja perfectamente con la memoria de tus padres diciéndote que fueras extra educada en la conferencia familiar..."`
 `"¡¿E... estás sugiriendo que lo que sé de Rokkenjima... lo que sé de la familia Ushiromiya...`
@@ -267,11 +267,11 @@
 ` ¡Pero busco la verdad!`
 ` ¡Los engaños de esas brujas no funcionarán conmigo!`
 ` ... Ahora lo entiendo, malditas brujas.`
-` De modo que enviaron a onii-chan como el último asesino para darme el golpe de gracia."`
+` Conque enviaron a onii-chan como el último asesino para darme el golpe de gracia."`
 `"... Tienes razón en una cosa.`
 ` Este es... mi juego.`
 ` Así que, por supuesto, este es mi relato, y soy quien lo cuenta.`
-` Es por eso que puedo añadir situaciones de “qué pasaría si…”, como por ejemplo tener tu asistencia en Rokkenjima."`
+` Es por eso que puedo añadir situaciones de “qué pasaría si...”. Como, por ejemplo, tener tu asistencia en Rokkenjima."`
 `"¡Ya ves!`
 ` ¡¡Tú creaste esta historia!!`
 ` Es todo un montón de mentiras... ¡¡ficción que tú hiciste!!"`
@@ -301,12 +301,12 @@
 `"Finalmente lo entiendo.`
 ` ... Esto es un juego entre tú y yo, onii-chan."`
 `"Ange.`
-` No estoy tratando de desafiarte a un juego."`
+` No estoy presentando este juego como un desafío."`
 `"No.`
-` Esto es un juego.`
+` Este juego es exactamente eso.`
 ` ... Yo pedí un deseo, esperando conocer la verdad del 4 de Octubre de 1986.`
-` De modo que tú me invitaste a este juego, prometiendo mostrar dicha verdad.`
-` Y ahora, ¡me estás mostrando esta extraña ilusión, intentando hacerme creer que es la verdad!`
+` De modo que tú me invitaste a este tablero, prometiendo mostrarla.`
+` Y ahora, ¡me estás enseñando esta extraña ilusión, e intentas hacerme creer que es la verdad!`
 ` ... Pues qué mal.`
 ` Ya estoy acostumbrada a lidiar con brujas.`
 ` ¡¡Soy completamente consciente de que intentas usar esa cara amable tuya para engañarme...!!"`
@@ -330,17 +330,17 @@
 `"... Oh, muy bien.`
 ` Silencio obtendrás entonces.`
 ` ... Incluso si un jugador no está presente, las piezas se moverán por su cuenta, y el juego avanzará.`
-` ... ¿No era así como funciona?"`
+` ... ¿No era así cómo funciona?"`
 `"...`
-` ... Muy bien.`
-` Retírate del podio del jugador, y sé una observadora por un rato.`
+` Muy bien.`
+` Retírate del podio de jugadora, y sé una observadora por un rato.`
 ` Puedes volver cuando sea que gustes."`
 `"Haré exactamente eso.`
 ` Esto es una prueba de resistencia.`
 ` ... Seguirá en pié hasta que te rindas en intentar encubrir la verdad."`
 `"..."`
-`"¿Algo más importante que la verdad?`
-` ... ¡Qué sinsentido...!`
+`"¿Algo más importante que la verdad...?`
+` ¡Qué sinsentido...!`
 ` ¡No existe algo así!"`
 `"Sí que existe, Ange.`
 ` ... Sea mi relato verdad o no... `
@@ -364,13 +364,13 @@
 ` ... ¿Onii‐chan...?"`
 `"¿Qué pasa?"`
 `"... ¿Por cuánto nos quedaremos aquí...? El tiempo está raro.`
-` ... Volvamos a la casa de invitados."`
+` ... Volvamos a la casa de huéspedes."`
 `Los ojos de Ange ya no estaban nublados.`
-`Sin embargo, su tono y atmósfera transmitían una energía distinta a la de antes...`
+`Sin embargo, su tono y atmósfera transmitían una vibra distinta a la de antes...`
 `De una forma típica en niñas jóvenes, Ange indicó que se encontraba aburrida y que quería ir a hacer algo.`
 `Esta claramente era una Ange de seis años.`
 `"Buen punto.`
-` ... Entonces, ¿por qué no te adelantas y vas a la casa de invitados?`
+` ... Entonces, ¿por qué no te adelantas y vas a la casa de huéspedes?`
 ` Yo me quedaré aquí."`
 `"¿Por qué? Ya está por llover."`
 `"Debería llegar en cualquier momento.`
@@ -385,13 +385,13 @@
 `Como si le estuviese hablando al viento...`
 ` las palabras de Battler se dirigieron al vacío jardín de rosas.`
 `Eso no puede ser correcto.`
-` Después de todo, sus palabras dejaban en claro que le estaba hablando a alguien justo enfrente de él.`
+` Después de todo, sus palabras dejaban en claro que le estaba hablando a alguien justo frente a él.`
 `Por lo que Ange pensó que debía tratarse de alguien que sólo ella no podía ver, y se frotó los ojos.`
-`Entonces, cuando los abrió, otra ráfaga de viento sopló junto a ella.`
+`Entonces, cuando los abrió, otra ráfaga de viento sopló cerca de ella.`
 `Cerró sus ojos inmediatamente... y cuando los abrió tímidamente...`
-`Desde el otro lado del jardín de rosas—`
-`sí, del camino que conectaba con el puerto,`
-` ... una persona apareció.`
+`Al otro lado del jardín de rosas...`
+` sí, del camino que conectaba con el puerto...`
+` una persona apareció.`
 `Desde la perspectiva de Ange, parecía como si se hubiera presentado junto a una nube de copos dorados traídos por el viento...`
 `"Llegas tarde, Beato."`
 `"¿En serio? Yo diría que aún es temprano."`
@@ -401,10 +401,10 @@
 `"¡*cacareo*cacareo*!`
 ` Ya veo, ¡qué interesante...!`
 ` En ese caso, supongo que sí llegué demasiado tarde."`
-`Ambos casualmente se acercaron y abrazaron.`
+`Se acercaron el uno al otro y hasta se dieron un abrazo de forma casual.`
 `{n}Parecían un par de amigos reuniéndose tras varios años.`
 `"..."`
-`Ange, desconcertada por esta mujer desconocida, buscó dónde esconderse.`
+`Ange, desconcertada por la aparición de esta mujer desconocida, buscó donde esconderse.`
 `Sin embargo, cuando sus ojos se cruzaron con los de Beato, perdió su chance de escapar...`
 `"Oh, y tú debes ser Ange."`
 `"¡...!"`
@@ -417,19 +417,19 @@
 ` ¡¿Cómo te atreves?!"`
 `"... ¿La amiga... de onii-chan?"`
 `"Esta es {f:5:Beatrice}.`
-` Has oído sobre ella de padre, ¿o no?`
+` Has oído sobre ella del abuelo, ¿cierto?`
 ` ¿Sobre la Bruja Dorada que entregó su oro a la familia Ushiromiya?"`
 `¿He... oído eso antes?`
 `La Bruja Dorada.`
 ` ... Ya recuerdo.`
 `Era esa bruja temible que te secuestraría y llevaría al bosque...`
-` si no hacías caso a tus padres o te quedabas despierto hasta tarde en Rokkenjima.`
+` si no hacías caso a tus padres, o si te quedabas despierto hasta tarde en Rokkenjima.`
 `"En noches lluviosas,`
 ` si miras por la ventana hacia el penumbroso bosque...`
-` podrías ver a la bruja devolviéndote la mirada y ser secuestrado... Eso fue lo que mamá me contó."`
+` podrías ver a la bruja devolviéndote la mirada y serías secuestrado... Eso fue lo que mamá me contó."`
 `"En otras palabras...`
 ` ¿Se supone que debo deambular en la fría lluvia, observando una por una las ventanas para encontrar a niños que se quedaron despiertos hasta tarde?`
-` ¡Eso sería cuando menos lamentable...!"`
+` ¡Eso sería, cuando menos, lamentable...!"`
 `"Wajajajaja, buen punto.`
 ` Ange, tus padres sólo inventaron esa historia para que te fueras a dormir en horas cristianas.`
 ` Ella no hace cosas como esa."`
@@ -437,9 +437,9 @@
 ` ¡Estás en presencia de {f:5:Beatrice}, la Bruja Dorada!"`
 `"O su nieta, al menos."`
 `"¿Nieta...?"`
-`"E... esa parte de nieta apaga un poco las cosas."`
-`"Bueno, es la verdad, ¿o no?`
-` La persona de la que el abuelo obtuvo el oro y a la que llamó la Bruja Dorada fue tu abuela, ¿cierto?"`
+`"E... esa parte apaga un poco las cosas."`
+`"Bueno, es la verdad, ¿cierto?`
+` La persona de la que el abuelo obtuvo el oro y a la que llamó la Bruja Dorada fue tu abuela, ¿o me equivoco?"`
 `"Nn...nnggg... Bueno, reconozco eso...`
 ` Conque nieta de la Bruja Dorada, ¿eh?`
 ` ... Nnngh, ¿No se me puede otorgar un mejor título?"`
@@ -452,84 +452,84 @@
 ` ¡¿Qué creen que le están contando a esta niña sobre mí?!`
 ` ¡No hago nada similar...!`
 ` ¡Iré a presentar una queja más tarde! ¡*puchero*!"`
-`... Se la veía como una persona muy emocional,`
-` ... pero no era para nada como la aterradora Bruja Dorada que Ange había imaginado.`
-`Era ruidosa, mientras que exageraba todo.`
-` ... No guardaba ninguna semejanza con la bruja de la que Maria onee-chan había hablado, quien había vivido por mil años y tenía a su disposición varios sirvientes del mundo de los demonios.`
-`Parecía, bueno, como una mujer jóven y enérgica con la que la madre de Ange podría haberse llevado bien.`
-`Su hermano y la bruja hablaban alegremente como un par de amigos cercanos.`
+`... Se la veía como una persona muy emocional...`
+` lo que contrastaba a simple vista con la aterradora Bruja Dorada que Ange había imaginado.`
+`Era ruidosa, y lo exageraba todo.`
+` ... No era para nada como la bruja de la que Maria onee-chan había hablado, quien había vivido por mil años y tenía a su disposición varios sirvientes del mundo de los demonios.`
+`Parecía, bueno, una mujer jóven y enérgica con la que su madre podría haberse llevado bien.`
+`Su hermano y la supuesta bruja hablaban alegremente como un par de amigos cercanos.`
 `Los perros a menudo desconfían de las personas durante un primer encuentro.`
-` Sin embargo, la gente dice que los perros se sienten más relajados con una persona cuando ven a su dueño actuando amigablemente con ella.`
+` Sin embargo, se dice que los perros se sienten más relajados cerca de una persona cuando ven a sus dueños actuando amigablemente con ella.`
 `Seguramente algo similar estaba ocurriendo dentro del corazón de Ange.`
 `Mientras esta mujer agresiva y temperamental que se hacía llamar bruja charlaba alegremente con Battler,`
 ` Ange observaba su comportamiento de cerca...`
 `"... ¿Para qué es esa llave?"`
-`Beato notó la llave dorada colgando del cuello de Ange.`
-`{n}La pequeña automáticamente la agarró a la defensiva.`
+`Beato notó el ornamento dorado colgando del cuello de Ange.`
+`{n}Y la pequeña lo empuñó a la defensiva al instante.`
 `"Esa es la preciosa llave de Ange."`
-`Después de escuchar esas palabras poco precisas, la bruja se quedó en blanco por un segundo.`
+`Después de escuchar esas palabras tan imprecisas, la bruja se quedó en blanco por un segundo.`
 `Pero, casi inmediatamente, pareció entender lo que quiso decir.`
 `"... Ya veo.`
 ` ¿Conque así son las cosas?"`
 `"Pensé que sería más sencillo de entender si le dejaba en claro lo que se supone que debe hacer."`
 `"..."`
 `"No te preocupes, Ange.`
-` No robaré robar tu preciosa llave."`
+` No pretendo robar tu preciosa llave."`
 `"... ¿En serio...?"`
 `"Por supuesto.`
-` Esa llave te pertenece, y la decisión también.`
+` Ese objeto te pertenece, y la decisión también.`
 ` Battler y el resto no somos más que meras señales destinadas a guiarte en tu camino."`
 `"¿...?"`
 `Al otorgarle la llave, su hermano le había dicho que era muy importante y que la cuidara muy bien.`
-`Ange no entendía cuál era el propósito de la llave...`
+`Ange no entendía cuál era el propósito...`
 ` pero parece que Beato sí.`
 `Sin embargo, tal y como su hermano había hecho anteriormente, Beato sólo hablaba en acertijos.`
-`Esto irritó a Ange,`
-` pero por el momento, la Bruja Dorada había dicho que no tenía intención de robarle la llave, cosa que la tranquilizó un poco.`
+`Esto la irritó,`
+` pero por el momento, la Bruja Dorada había dicho que no tenía intención de robarle nada, cosa que la tranquilizó un poco.`
 `"... ¿Sabes para qué...`
-` puedo usar esta llave?"`
+` puedo usarla?"`
 `"Pero por supuesto.`
-` Aunque no está en mi poder decírtelo."`
+` Aunque contártelo está más allá de mis límites."`
 `"¿Por qué...?"`
-`"Porque debes decidir cómo usarás esa llave por ti misma."`
+`"Porque debes decidir cómo la usarás por ti misma."`
 `La bruja dijo lo mismo que mi hermano.`
-`La pareja se asintió mutuamente, pero todo era Griego para mí.`
-`Se sentía como si alguien hubiera presentado un acertijo del que todos sabían la solución menos yo, y se burlaban de mí.`
+`La pareja se asintió mutuamente, pero todo era griego para mí.`
+`Se sentía como si alguien hubiera presentado un acertijo del que todos sabían la solución menos yo, y se estuvieran burlando.`
 `"Lo sabrás dentro de poco.`
 ` No necesitas indagar demasiado en ello."`
 `"..."`
-`Ange sostuvo la llave con firmeza.Ange held the key tightly.`
-`Incluso si no entendía lo que significaba... era su propia llave, y su hermano mayor le pidió que la cuide adecuadamente.`
+`Ange sostuvo la llave con firmeza.`
+`Incluso si no entendía lo que significaba... era su propio amuleto, y su hermano mayor le pidió que la cuidara adecuadamente.`
 `Con su desconfianza juvenil, temía que la bruja le pidiera entregarla para enseñarle cómo usarla.`
 `Por supuesto, sus pensamientos se podían leer fácilmente en su rostro.`
 `{n}La bruja no pudo contener la risa ante tan honesta expresión.`
 `"No temas.`
-` Esa llave es imposible de robar sin importar quién seas."`
+` Esa llave es imposible de robar sin importar quién lo intente."`
 `"... ¿Nadie puede robarla...?"`
 `"Hasta se podría decir que fue imbuida en magia para que así sea.`
 ` En cuyo caso, no temas.`
-` Ni yo, ni Battler, ni nadie en esta isla puede robarte esa llave."`
+` Ni yo, ni Battler, ni nadie en esta isla puede arrebatártela."`
 `"¿En serio...?"`
 `"Sí, en serio.`
 ` La magia no lo permitirá."`
 `La llave colgaba de su cuello como un collar ordinario.`
-`Ange podía quitársela ahora mismo si así lo quisiera, y si un adulto intentara usar la fuerza, parecía sencillo simplemente arrebatársela.`
-`Sin embargo, tanto su hermano como la bruja dijeron que estaba protegida por una magia que detendría a cualquiera de robarla...`
+`Ange podía quitársela ahora mismo si así lo quisiera, y, si un adulto intentaba usar la fuerza, parecía sencillo simplemente arrebatársela.`
+`Sin embargo, tanto su hermano como la bruja dijeron que estaba protegida por cierta magia...`
 `"... ¿La magia...`
 ` realmente...existe...?"`
 `Incluso la Ange de seis años conocía la palabra “magia”.`
 `Sin embargo, también entendía que la magia real no existía...`
-` y que ciertos tipos de trucos de magia eran considerados magia.`
+` y que ciertos trucos eran considerados magia.`
 `A pesar de eso, su hermano y la bruja estaban hablando de la magia misma.`
 `"Sí.`
 ` La magia existe."`
 `"... ¿De veras?"`
-`"Maria habla sobre mí a menudo, ¿o me equivoco?`
+`"María habla sobre mí a menudo, ¿o me equivoco?`
 ` Las brujas existen,`
-` la magia existe—debe haberte dicho esta clase de cosas en más de una ocasión."`
+` la magia existe. Debe haberte dicho esta clase de cosas en más de una ocasión."`
 `Cierto, Maria le había hablado de eso múltiples veces.`
 `{n}Cuando era parte de un juego, Ange le había creído, más o menos.`
-`Sin embargo, Ange era, de cierto modo, escéptica para su edad...`
+`Sin embargo, Ange era escéptica para su edad...`
 ` por lo que cuando escuchaba a Maria hablar felizmente sobre magia, a veces pensaba que tal cosa no podía existir realmente.`
 `"Entonces... muéstrame."`
 `"¿Mmm?"`
@@ -539,14 +539,14 @@
 ` Beato acaba de llegar a la isla, y ni siquiera tuvo la oportunidad de saludar a todos en la mansión aún..."`
 `Battler habló como si tratara de suavizar las cosas.`
 `Cuando escuchó eso, Ange se convenció de que la magia no existía después de todo.`
-`"¡Las brujas son una gran mentira...!`
+`"¡Las brujas son una mentira grande y gorda...!`
 ` ¡Yo lo sé!"`
-`"Oye, para con eso.`
+`"Oye, para ya.`
 ` Herirás los sentimientos de Beato..."`
 `"No, no es problema.`
 ` Cualquiera diría eso tras conocer a una bruja.`
 ` Normalmente, haría caso omiso a las provocaciones de una niña tan pequeña, pero es tu hermanita después de todo.`
-` ¿Por qué no le damos una muestra especial?"`
+` ¿Por qué no le damos una demostración?"`
 `"¿Estás segura...?"`
 `"Por supuesto que sí.`
 ` Observa atentamente, Ange."`
@@ -554,25 +554,25 @@
 `Aunque Ange había sido quien desafió a la bruja a mostrarle magia,`
 ` ahora que estaba por ser testigo de la misma, comenzó a mostrar signos de vacilación.`
 `Tragó saliva, y fijó su mirada en el rostro de la bruja.`
-`La bruja extendió su mano derecha, acercándola al rostro de Ange.`
+`Ella extendió su mano izquierda, acercándola al rostro de Ange.`
 `{n}En eso, lentamente extendió sus dedos.`
 `Ange, con la idea de que estaba por ser convertida en un sapo, retrocedió.`
-`Sin embargo, tras esperar un rato mientras apretaba los dientes, se dio cuenta de que no estaba pasando nada.`
+`Sin embargo, tras esperar un rato apretando los dientes, se dio cuenta de que no estaba pasando nada.`
 `Por lo que su miedo se volvió irritación, y comenzó a quejarse.`
 `"No ocurrió nada."`
-`"No seas tan rápida para saltar a conclusiones.`
+`"No te apresures tanto en sacar conclusiones.`
 ` Aún no he usado magia.`
 ` Mira, observa atentamente mi palma.`
-` No escondo nada, ¿Correcto?"`
+` No escondo nada, ¿correcto?"`
 `Oh, conque eso es lo que hacía...`
 ` Ahora que finalmente comprendió, Ange corroboró ambos lados de la mano de la bruja.`
 `"... Sí.`
 ` No hay nada ahí."`
 `"Presta atención.`
-` Haré un puño,`
-` ... y extenderé mi dedo índice."`
+` Haré un puño...`
+` y extenderé mi dedo índice."`
 `Dicho y hecho, extendió su dedo y lo sostuvo frente a los ojos de Ange.`
-`La niña, rehusándose a mostrar debilidad por retroceder, se mantuvo firme y se concentró en la punta del dedo.`
+`La niña, rehusándose a mostrar debilidad, se mantuvo firme y se concentró en la punta del dedo.`
 `"Observa la punta de mi dedo de cerca.`
 ` ¿Lista? Esto será rápido."`
 `La bruja rápidamente levantó su dedo índice alto en el aire, apuntando a los cielos.`
@@ -580,25 +580,25 @@
 `De ese modo...`
 ` el dedo se precipitó hacia arriba, abajo, izquierda, derecha, e izquierda nuevamente,`
 ` como si Ange estuviera jugando una partida de {c:86EF9C:Acchi Muite Hoi}.`
-`Sintiendo que perdería si no podía seguir el ritmo del dedo, Ange movió su rostro de un lado a otro, luciendo seria.`
+`Sintiendo que perdería si no podía seguir el ritmo del dedo, Ange movió su rostro de un lado a otro con total seriedad.`
 `Desde que era muy jóven, Ange siempre había odiado perder.`
-` Se tomaría incluso los juegos más triviales con mucha seriedad, determinada a no perder ante los adultos.`
+` Se tomaría incluso los juegos más triviales demasiado en serio, determinada a no perder frente a los adultos.`
 `La mano de la bruja se movía más y más rápido.`
 ` Ange no le perdió el rastro.`
 `Entonces, el dedo en alto de la bruja tomó un giro repentino hacia abajo...`
-` y cuando se detuvo, su dedo índice ya estaba guardado, y su mano en una simple posición de puño.`
-`Podría ser... ¿que algo estaba por salir de esa mano...?`
+` y cuando se detuvo, su dedo índice ya estaba guardado. Y su mano, en una simple posición de puño.`
+`Podría ser... ¿que algo estaba por salir de ahí...?`
 `Precavida ante esto, Ange había seguido el dedo muy de cerca.`
-` Esa mano no había tenido ninguna posibilidad de agarrar algo.`
+` Esa mano no tuvo posibilidad alguna de agarrar algo.`
 `"..."`
 `"¿Lista? Voy a abrir mi mano..."`
-`La bruja lentamente extendió todos los dedos de su puño derecho...`
+`La bruja lentamente extendió todos los dedos de su mano derecha...`
 `{n}Y allí...`
 `"... ¿Qu? ¡¿Qué?!`
 ` ... ¡¿Cómo?!`
 ` ¡¿Cómo, onii-chan?!"`
 `La bruja entregó ese caramelo adorablemente envuelto a Ange como regalo.`
-`Ange lo aceptó y desesperadamente buscó alguna clase de truco en él, pero sólo era un caramelo común y corriente...`
+`La niña lo aceptó y desesperadamente buscó alguna clase de truco en él, pero sólo era un caramelo común y corriente...`
 `"¡¿Cómo?!`
 ` ¡Eso fue un truco! ¡¿Verdad, onii-chan?!`
 ` ¡¡¿Onii‐chan?!!"`
@@ -608,21 +608,21 @@
 `Estuve viendo todo el tiempo... ¿Entonces cómo...?`
 `{n}No quería admitirlo, pero era incapaz de ver cómo eso había sido algo aparte de magia.`
 `Mientras la hermana pequeña fruncía el ceño y se mordía el labio inferior, su hermano le dijo gentilmente una vez más que había sido magia.`
-`"Ya va siendo hora de ir a la mansión a presentar mis respetos.`
+`"Ya va siendo hora de ir a la mansión a rendir mis respetos.`
 ` Deberías venir, Battler.`
 ` Me asfixiaré si tengo que ir sola."`
 `"¿Segura? En ese caso me uno.`
 ` ... ¿Qué tal tú, Ange?`
-` ¿Volverás a la casa de invitados?"`
+` ¿Volverás a la casa de huéspedes?"`
 `"... Yo... quiero quedarme contigo, onii-chan."`
 `Aún no podía aceptarlo.`
 ` Pero quizás... sólo quizás...`
-`Aún lucía malhumorada,`
-` ... pero parecía estar interesándose en esta bruja, al menos un poco.`
-`"Entonces partamos camino.`
-` ¡La bruja dorada regresa...!"`
+`Aún lucía malhumorada...`
+` pero parecía estar interesándose en esta bruja, al menos un poco.`
+`"Entonces, pongámonos en marcha.`
+` ¡La Bruja Dorada regresa...!"`
 `"La nieta de la Bruja Dorada, querrás decir."`
-`"¡En serio tenemos que hacer algo con respecto a ese nombre...!"`
+`"¡En serio tenemos que hacer algo con respecto a ese título...!"`
 `El hermano mayor y la bruja realmente parecían cercanos.`
 `{n}Jugando y bromeando entre ellos como un par de comediantes, se dirigieron a la mansión.`
 `En todo ese tiempo, Ange se aferró al borde de la manga de su hermano, intentando asegurarse de que no se olvidara de ella...`

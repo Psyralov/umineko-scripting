@@ -3,30 +3,30 @@
 `El hermano mayor que no regresaría jamás de aquel día doce años en el pasado, y su hermanita que esperó sola doce años en el futuro.`
 `Sin embargo, el hermano mayor sabía todo, entendía todo.`
 `{n}Y la hermana menor no sabía nada, no entendía nada.`
-`Así que, sin importar cuanto tiempo pasara, la hermana menor se mantenía como la niña que había sido doce años antes.`
+`Así que, sin importar cuanto tiempo pasara, la pequeña se mantenía como la niña que había sido doce años antes.`
 `Se mantenía como una niña de seis años por siempre...`
 `Sus sollozos encima del pecho de su hermano finalmente cesaron...`
 `Ahora esperaba tranquilamente sus próximas palabras.`
 `Tras acariciar su cabeza gentilmente, el hermano mayor comenzó a buscar algo dentro del bolsillo de su camisa.`
-`Eventualmente, sacó algo.`
+`Poco tiempo después, sacó algo.`
 `"¿Estás escuchando, Ange?`
 ` Cuida bien esto."`
 `"... ¿Qué es...?`
-` ... ¿Una llave...?"`
+` ¿Una llave...?"`
 `Battler tomó de su bolsillo una gran llave unida a un collar, y se la entregó a Ange.`
 `Era lo suficientemente grande como para cubrir la palma entera de Ange,`
 ` y la pequeña probablemente no podría envolverla completamente con su mano.`
 `La llave tenía un brillo dorado a la vez que un hermoso y complejo diseño.`
-`Su peso por sí solo dejaba en claro que esta llave era algo muy importante.`
+`Su peso por sí solo dejaba en claro que era algo muy importante.`
 `Battler puso el collar alrededor del cuello de Ange.`
-`"Esta preciosa llave es sólo tuya, Ange."`
+`"Esta preciosa llave es sólo tuya."`
 `"¿Para qué es...?"`
 `"El momento para usarla llegará pronto.`
 ` Cuando lo haga, serás tú quien tome la decisión.`
 ` ... ¿Entendido?"`
 `... Por supuesto, ella no tenía idea de lo que Battler estaba diciendo.`
-`Pero sí comprendió que le estaba pidiendo que cuidara muy bien de esta llave.`
-` Así que Ange asintió, al menos como respuesta a esa parte.`
+`Sin embargo, comprendió que le estaba pidiendo que cuidara muy bien de esta llave.`
+` Así que Ange asintió, al menos en respuesta a esa parte.`
 `En su mano, la llave se sentía pesada.`
 ` Sin embargo, ahora que estaba alrededor de su cuello, se sentía tan ligera como un collar cualquiera.`
 `Qué extraño.`
@@ -36,11 +36,11 @@
 `Hace un segundo, le había dicho que le contaría lo que pasó en Rokkenjima aquel día.`
 `Pensó que se lo contaría aquí...`
 `"Ese día, en aquella isla...`
-` ¿Qué había ocurrido?"`
+` ¿Qué fue lo que ocurrió?"`
 `"¿No estabas por contármelo, onii-chan?"`
 `"Oh, lo haré.`
 ` Te contaré la historia y te dejaré escucharla.`
-` ... Sin embargo, podría ser la clase de cosa que no puedes sentir si es que la escuchas de alguien más."`
+` ... Sin embargo, podría ser esa clase de cosa que no puedes sentir si es que la escuchas de alguien más."`
 `"... ¿A qué te refieres?"`
 `"Lo que realmente quieres... no es saber lo que pasó en esa isla aquel día."`
 `... Así que... realmente lo entiende, después de todo.`
@@ -56,7 +56,7 @@
 ` Y... todos los demás.`
 `Quiero volver... a la isla en aquel día.`
 `Así que me mantuve en la forma que tenía aquel día.`
-`{n}Mi corazón y alma se detuvieron, atrapados como los de una niña de seis años por siempre...`
+`{n}Mi corazón y alma se detuvieron, atrapados como los de una niña de seis años...`
 `"... Quiero volver."`
 `"Lo sé."`
 `"Mamá, papá, onii-chan.`
@@ -74,14 +74,14 @@
 ` ¿A todos...?"`
 `"Por supuesto."`
 `"Incluso si... mi memoria está difusa... y no puedo recordar con claridad los rostros de nadie..."`
-`"Lo recordarás dentro de poco.`
-` ... Y, aunque sea una reunión tras doce años para ti,`
-` ... solo habrá pasado un pequeño instante para el resto de nosotros.`
+`"Los recordarás dentro de poco.`
+` ... Y, aunque sea una reunión tras doce años para ti...`
+` sólo habrá pasado un pequeño instante para el resto de nosotros.`
 ` ... Todos te recibirán.`
 ` Todos te darán la bienvenida de aquel futuro distante."`
 `"¿Podré... quedarme para siempre?"`
 `De este modo, podré estar con todos por siempre.`
-`{n}Esta es la meta que se supone que debo alcanzar...`
+`{n}Esa es la meta que se supone que debo alcanzar...`
 `"Ange, escúchame atentamente."`
 `Pero Battler habló en un tono serio.`
 `{n}Como si me advirtiera que dicho sueño no podría cumplirse...`
@@ -94,11 +94,11 @@
 `"Tienes que decidir eso por ti misma."`
 `... Entiendo, por supuesto.`
 `No existo en esa isla aquel día.`
-`El mero hecho de ser invitada así es un milagro.`
-`Sólo los dos días antes de que el tifón pase.`
+`El simple hecho de ser invitada es un milagro.`
+`Los dos días antes de que el tifón pase.`
 ` Sólo tener esos dos días para mí ya es un milagro irrepetible.`
 `Si soy codiciosa y pido más, ese tenue milagro podría esfumarse.`
-`... Pero aunque pensara eso, mi joven corazón, que aún tenía 6 años, no estaba satisfecho con un milagro tan efímero...`
+`... Pero aunque pensara eso, mi joven corazón de seis años no estaba satisfecho con un milagro tan efímero...`
 `"No quiero irme."`
 `"... Lo sé."`
 `"Estaré con todos por siempre.`
@@ -113,10 +113,10 @@
 `"Ya... tomé mi decisión"`
 `"No tienes que decidir ahora.`
 ` El tiempo para elegir llegará pronto.`
-` ... Cuando lo haga, debes usar tu corazón honesto para elegir cómo usarás esa llave."`
+` ... Cuando lo haga, debes usar tu honesto corazón para elegir cómo usarás esa llave."`
 `"..."`
 `"No tienes por qué escuchar nada de lo que yo te diga.`
-` Eres libre de decidir del modo que prefieras.`
+` Eres libre de decidir como lo prefieras.`
 ` ... Sin embargo,`
 ` si eres una buena niña, y si puedes confiar en tu hermano mayor..."`
 `"... ¿Entonces qué...?"`
@@ -124,33 +124,33 @@
 `"Creer... en todo..."`
 `"Eso te llevará a la mejor decisión para ti.`
 ` Escucha mis palabras y confía en todo lo que diga.`
-` ... ¿Puedes hacer eso?"`
+` ... ¿Puedes hacerlo?"`
 `"... No lo sé."`
 `"Con eso me conformo.`
 ` Sólo cree en lo que prefieras.`
 ` Eso también es decisión tuya."`
-`"... Si no te creo,`
-` ... ¿despertaré de este sueño?"`
+`"... Si no te creo...`
+` ¿despertaré de este sueño?"`
 `"Eso no pasará.`
 ` Así que no te preocupes."`
 `Por alguna razón, Ange sospechaba de su hermano... y le temía.`
 `Su deseo era permanecer en esa isla aquel día, junto a su familia, por siempre.`
-`... Temía que, transcurridos sus dos días milagrosos,`
-` ... su hermano le dijera que se contentara con eso, y le pidiese que vuelva a vivir doce años en el futuro, sola.`
+`... Temía que, transcurridos sus dos días milagrosos...`
+` su hermano le dijera que se contentara con eso, y le pidiese que vuelva a vivir doce años en el futuro, sola.`
 `"Ya te lo dije.`
 ` ... Puedes irte, o quedarte.`
 ` No hay una elección correcta.`
 ` Eso lo decidirás tú.`
 ` Y no tienes que hacerlo ahora mismo."`
 `"¿Y nadie me forzará a tomar una decisión en específico...?"`
-`"Por supuesto."`
+`"Para nada."`
 `"¿No me pedirás... que vaya al futuro de nuevo...?"`
 `"... Hay una elección que quiero que tomes.`
-` ... Quiero que alcances esa decisión por ti misma.`
-` Así que, aunque quiero que elijas una opción concreta, respetaré lo que decidas."`
-`"Y ya te lo dije`
-` Ya tomé mi decisión."`
-`"Y yo ya te dije también.`
+` ... Pero quiero que alcances esa decisión por ti misma.`
+` Así que, aunque tengo mis preferencias, respetaré lo que decidas."`
+`"Ya te lo dije.`
+` Tomé mi decisión."`
+`"Ya te lo dije también.`
 ` Aún no es el momento de decidir."`
 `"¿Cuándo será el momento?"`
 `"La llave te lo dirá."`
@@ -158,21 +158,21 @@
 `Su pequeña mano la aferró con fuerza...`
 `... En ese momento, notó un libro yaciendo sobre el altar de la capilla.`
 `Tenía una cerradura en él, sellado para que no pudiese ser leído sin una llave.`
-`Ange miró alternadamente la llave colgando en su pecho y el libro sobre el altar.`
+`Ange miró alternadamente entre la llave colgando de su pecho y el libro sobre el altar.`
 `"... ¿Esta llave puede abrir ese libro?"`
 `"No toques eso."`
 `Su repentina y enérgica respuesta hizo que Ange se echara para atrás.`
 `Battler, dándose cuenta de que la había asustado, suavizó su expresión.`
 `"Vamos, es hora.`
 ` ... Te estoy invitando a venir al 4 de Octubre de 1986."`
-`"Bien."`
+`"Sí..."`
 `Battler extendió su mano, y Ange la tomó con firmeza.`
 `Entonces, se pusieron en marcha.`
 `Una luz brillante yacía más allá de la puerta de la capilla.`
-`Esa luz cegadora se asomaba por todas las rendijas alrededor de la puerta.`
-`... El hermano y la hermana comenzaron a caminar hacia el otro lado...`
+`Esa luz cegadora se asomaba por todas las rendijas a su alrededor.`
+`... Los hermanos comenzaron a caminar hacia el otro lado...`
 `{a:c:`
 `Bienvenida, Ange.`
 ` Y tras esto, será el final.}`
 `{a:c:`
-`Solo por ti, abriré este tablero... {n}una última vez...}`
+`Sólo por ti, abriré este tablero... {n}una última vez...}`

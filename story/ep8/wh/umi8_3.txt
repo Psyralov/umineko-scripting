@@ -3,18 +3,18 @@
 `"¡¡Aja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja!!`
 ` Simplemente espléndido.`
 ` ¡Me alegra verte de tan buen humor...!"`
-`"Lo mismo podría decirte.`
+`"Podría decir lo mismo.`
 ` ¿Qué idiota dijo que estás en tus últimos años?"`
-`"Sólo tomé prestado algunos ánimos de ti.`
+`"Sólo tomé prestados algunos ánimos de ti.`
 ` Tras regresar a mi estudio, seré poco más que un anciano senil y acabado."`
 `"¡Basta de patrañas!`
 ` Ríndete y jura que vivirás a lo grande hasta los cien años."`
-`"Lo mismo digo. Me sorprendió ver lo poco que habías cambiado para haber pasado seis años."`
+`"Estoy de acuerdo. Me sorprendió ver lo poco que habías cambiado para haber pasado seis años."`
 `"Wajajajaja, pequeño mocoso.`
 ` ¡Parece que has aprendido del arte de la adulación en todo ese tiempo!`
 ` Lamento decepcionarte, pero apenas calificas para la posición de juez en este asunto.`
 ` Sin duda me he vuelto bastante viejo."`
-`"Apostaré mil yenes a que Kinzo estará de maravilla incluso tras cumplir cien años."`
+`"Apuesto mil yenes a que Kinzo estará de maravilla incluso tras cumplir cien años."`
 `"Sí, lo mismo digo.`
 ` El abuelo de cien años no será diferente al abuelo de hoy."`
 `"¡Wajjajajaja!`
@@ -28,7 +28,7 @@
 ` ¡Pasa!"`
 `"... Disculpen la intromisión.`
 ` Vengo con Krauss-sama y Natsuhi-sama."`
-`"Padre—oh, y Battler-kun también está aquí."`
+`"Padre... oh, y Battler-kun también está aquí."`
 `"Ha pasado un tiempo, {f:5:Beatrice}‐san.`
 ` ¿Alguna novedad?"`
 `"Estoy tal y como solía estar.`
@@ -37,8 +37,8 @@
 ` Ven y siéntate."`
 `"Ange. Acércate."`
 `"... Yo veré desde aquí."`
-`Ange se aferró al caramelo que había obtenido de Beato,`
-` y, con una mirada cautelosa, continuó observando.`
+`Ange se aferró al caramelo que había obtenido de Beato y,`
+` de forma cautelosa, continuó observando.`
 `Genji le ofreció una silla, pero ella se negó con la cabeza.`
 `"Déjenla hacer lo que le plazca.`
 ` Vengan, Krauss, Natsuhi, siéntense."`
@@ -50,7 +50,7 @@
 ` No me molesta."`
 `Sin embargo, había invitado a Krauss y Natsuhi a la habitación VIP para reunirse con {f:5:Beatrice}, la Bruja Dorada.`
 `Era difícil imaginar que Kinzo planeara tener una mera charla casual...`
-`Tras decir que no le molesta, Beato le pidió a Battler que se quede, y así lo hizo.`
+`Tras decir que no le molestaba, Beato insistió a Battler en que se quedara, y accedió.`
 `Este último, con el fin de evitar interponerse en la conversación, se levantó del sofá y se unió a su hermana menor en la ventana.`
 `Cuando finalmente regresó con Ange, ella se aferró a su cintura, como si estuviera decidida a no dejarlo marchar otra vez.`
 `"Oh, ya veo.`
@@ -58,10 +58,10 @@
 `"¿Eh? ¿A qué te refieres?`
 ` No creo que le desagrades realmente."`
 `"*cacareo*cacareo*.`
-` Nunca podrás entender a las mujeres, Battler."`
-`Beato le sonrió a Ange, pero esta última desvió la mirada...`
+` Nunca podrás entender el corazón de una mujer, Battler."`
+`Beato le sonrió a Ange, pero la niña desvió la mirada...`
 `"¡*cacareo*cacareo*!`
-` Incluso una mujer jóven sigue siendo una mujer."`
+` Incluso una mujer joven sigue siendo una mujer."`
 `Cuando Beato dejó de reír, la conversación tomó un nuevo rumbo.`
 `¿Por qué Kinzo convocó a Krauss y Natsuhi a la habitación VIP? ¿Y de qué iba a hablar?`
 ` Todos hicieron silencio.`
@@ -70,8 +70,8 @@
 `"¡*cacareo*cacareo*!`
 ` Sí, más vale que me agradezcan."`
 `"En realidad, es a tu abuela a quien está agradeciendo."`
-`"Tú cállate."`
-`"No, a fin de cuentas es todo lo mismo.`
+`"Ay, ¡Tú cierra el pico!."`
+`"No, a fin de cuentas todo es lo mismo.`
 ` Todo ese oro fue prestado a la familia Ushiromiya por tres generaciones.`
 ` Y sin pedir compensación alguna."`
 `"... Realmente... no podemos agradecerte lo suficiente."`
@@ -79,7 +79,7 @@
 ` A falta de un lugar donde resguardarlo, fue un alivio poder dejarlo al cuidado de Kinzo."`
 `"Guau.`
 ` Me gustaría decir eso al menos una vez antes de morir."`
-`"... ¿La bruja dorada es... una persona rica...?"`
+`"... ¿La Bruja Dorada es... una persona rica...?"`
 `"¿Mmm?`
 ` Bueno, sí.`
 ` Después de todo, ella fue y le prestó al abuelo diez toneladas de oro como si nada."`
@@ -103,14 +103,14 @@
 `"{f:5:Beatrice}.`
 ` No me quedan muchos años por delante.`
 ` De hecho...`
-` esta puede ser la última conferencia familiar a la que asistiremos juntos."`
+` esta podría ser la última conferencia familiar a la que asistiremos juntos."`
 `"Qué pusilánime suenas.`
 ` Debes estar bromeando."`
 `Sólo Beato rió.`
 `Miró a Battler, por lo que él se unió, pero Kinzo y los demás permanecieron callados.`
 `Aparentemente, existían ciertas preocupaciones importantes sobre la salud de Kinzo...`
 `"Por supuesto, no tengo intenciones de morir tan pronto como el año que viene.`
-` Sin embargo, no creo poder hacer ninguna promesa con respecto a volver a verte para ese entonces.`
+` No obstante, no creo poder prometer que volveré a verte para entonces.`
 ` Jamás he hecho una promesa que no pueda cumplir."`
 `"Si lo dices tan orgullosamente, no estoy en posición de diferir...`
 ` ¿Estás hablando en serio?"`
@@ -128,7 +128,7 @@
 `Entonces, fueron salvados por el milagro de la Bruja Dorada.`
 `{n}Bajo su protección, el águila había sanado sus heridas durante muchos años.`
 `Y ahora, finalmente, llegó el momento de dejar el nido que la bruja le había proporcionado...`
-`"Todo el oro que tu abuela me prestó,`
+`"Todo el oro que tu abuela me prestó...`
 ` será devuelto.`
 ` ... Krauss, ninguna objeción, ¿verdad?`
 ` Ese oro nunca perteneció a la familia Ushiromiya en primer lugar."`
@@ -139,8 +139,8 @@
 ` Siempre vendría bien tener más dinero, ¿me equivoco?`
 ` ¿No querías que Kinzo te entregara el oro?"`
 `"Jajajaja...`
-` Sí, ahora que lo mencionas, estas afirmaciones son difíciles de negar.`
-` Sin embargo, el contrato siempre fue entre el abuelo y tú, y el oro siempre te perteneció originalmente."`
+` Sí, ahora que lo menciona, estas afirmaciones son difíciles de negar.`
+` Sin embargo, el contrato siempre fue entre padre y usted, y el oro siempre le perteneció originalmente."`
 `"Mi marido es el sucesor, después de todo.`
 ` Tal y como padre reconstruyó la familia en una generación,`
 ` estoy segura de que mi esposo la hará prosperar en la suya.`
@@ -155,18 +155,18 @@
 `"..."`
 `Devolver el oro alguna vez prestado por la Bruja Dorada.`
 ` Era simple y claro.`
-`Sin embargo, la expresión de la propia Bruja Dorada era un poco solitaria.`
+`Sin embargo, la expresión de la Bruja Dorada reflejaba cierta soledad.`
 `Ange no podía entender su significado.`
 `"... Es difícil rechazar lo que se me está devolviendo.`
 ` Oh, bueno."`
 `Beato se levantó del sofá.`
-`Entonces, caminó hacia la ventana y observó el jardín de rosas meciéndose por el viento.`
+`Entonces, caminó hacia la ventana a observar el jardín de rosas meciéndose por el viento.`
 `"Krauss.`
 ` También he decidido presentarles mi herencia a ti y al resto mientras aún sigo con vida."`
 `"P-padre..."`
 `"Cuando muera, no solo estarán ocupados con el funeral, sino que imagino que Eva y el resto también estarán encima de ti con el tema de la herencia.`
-` Si todo se divide ahora, el funeral te será más ameno.`
-`... Krauss, escribe esto.`
+` Si todo se divide ahora, el funeral te será más ameno...`
+` Krauss, escribe esto.`
 ` Y Genji, sé nuestro secretario.`
 ` Voy a establecer la distribución de mis bienes."`
 `Kinzo inmediatamente comenzó a explicar cómo se repartiría la herencia.`
@@ -177,16 +177,16 @@
 `"El oro... sería igual de útil si lo convirtieras en leña y lo usaras para cocinarte un estofado."`
 `"¿Qué pasa?`
 ` Tu cara luce algo desdichada."`
-`"Conque este día finalmente llegó.`
-` ... Sí que siento algo de soledad."`
+`"De modo que, al fin, llegó el día.`
+` ... He de admitir que siento algo de soledad."`
 `"... ¿En serio?"`
 `"Mi magia revivió a la familia Ushiromiya y creó Rokkenjima.`
 ` ... Y ahora, tal parece que la familia Ushiromiya ya no necesita el poder de mi oro.`
 ` Ha tomado vuelo, dejando el nido de mi magia atrás."`
 `"Sí.`
 ` ... De eso se trata."`
-`"He llamado a Rokkenjima la isla de la bruja—`
-`mi isla."`
+`"He llamado a Rokkenjima la isla de la bruja...`
+` mi isla."`
 `"... Ciertamente."`
 `"Y ahora, Rokkenjima me está devolviendo el oro.`
 ` ... Ha llegado el día... en que Rokkenjima despierte de mi magia.."`
@@ -210,7 +210,7 @@
 ` no hay sol que no se ponga."`
 `"..."`
 `Por supuesto, Ange no tenía ni la más pálida idea de lo que estaban discutiendo su hermano y la bruja.`
-`... Sin embargo, incluso siendo tan jóven, podía sentir que la pareja había pasado un tiempo increíblemente largo junta...`
+`... Sin embargo, incluso siendo tan joven, podía sentir que la pareja había pasado un tiempo increíblemente largo junta...`
 ` y que se entendían tan bien que tranquilamente podrían ser un matrimonio...`
 `En eso,`
 ` Beato notó su reacción.`
@@ -253,13 +253,13 @@
 ` ¡Dos de ellas fueron descubiertas más tarde...!`
 ` ¡Y ambas eran sobre crueles asesinatos en serie!"`
 `"¡Qué pena que sólo dos de ellas llegaran a la costa...!`
-` Qué pena que mi obra maestra, “Tierra”, jamás haya sido vista por ojos humanos."`
+` Una lástima que mi obra maestra, “Tierra”, jamás haya sido vista por ojos humanos."`
 `"Me he estado preguntando esto durante un tiempo, ¿qué hay con esos mensajes en botellas?"`
 `"A medida que trabajaba en los detalles de mi juego contra ti, comencé a crear esos relatos a la par.`
 ` Al darme cuenta de que podía crear un interminable número de historias diferentes utilizando el mismo tablero, ¡las cosas se pusieron realmente divertidas...!"`
 `"Entonces los escribiste con la esperanza de que yo los leyera algún día."`
 `"¡Precisamente!`
-` ¡Eran tan buenos, que no pude soportar esperar tu regreso...!`
+` ¡Eran tan buenos, que no pude soportar el esperar tu regreso...!`
 ` Inspirándome en esas obras clásicas ambientadas en islas recluidas, intenté sellarlos en botellas y arrojarlos al mar.`
 ` ¡Misterioso! ¿No crees?"`
 `"¡¡¡No te burles de mí...!!!`
@@ -270,7 +270,7 @@
 ` ¿eso es en lo que me he convertido en el año 1998?`
 ` ... Bueno, supongo que no puedo culparlos, *cacareo*cacareo*."`
 `"¡¿Eh?!`
-`¡¡¿Y qué con ese cambio repentino de carácter...?!!`
+` ¡¡¿Y qué con ese cambio repentino de carácter...?!!`
 ` ¡¿Es esto algún plan para que baje la guardia?!`
 ` ¡No me dejaré engañar, {f:5:Beatrice}! ¡¡Onii-chan!!"`
 `"Quieren hacer que me rinda y admitir que las brujas existen, ¡¿O no?!`
@@ -295,9 +295,9 @@
 `"En efecto.`
 ` Esta historia es una farsa.`
 ` No podría ser verdad.`
-` ... Y aún así, él estaba listo para mirar más allá—`
-`no, para hacerlo así a propósito—`
-`por el bien del mensaje que quiere transmitirte."`
+` ... Y aún así, él estaba listo para mirar más allá...`
+` no, para hacerlo así a propósito...`
+` por el bien del mensaje que quiere transmitirte."`
 `"Beato.`
 ` Ya se lo estoy mostrando.`
 ` No quiero imponérselo."`
@@ -310,14 +310,14 @@
 ` ¿Debo permanecer aquí más tiempo?"`
 `"Mis disculpas, pero debo pedirte que te quedes un poco más.`
 ` ... Continuando, Krauss,`
-` el apoyo continuo de la Casa Fukuin estará bajo tu responsabilidad como líder de la familia Ushiromiya..."`
+` el apoyo constante a la Casa Fukuin estará bajo tu responsabilidad como líder de la familia Ushiromiya..."`
 `"... Qué fastidio.`
 ` Mis disculpas, Battler.`
 ` Parece que no podré acompañarlos.`
 ` ... Genji.`
 ` ¿Te importaría llevar a estos dos a la casa de invitados?"`
 `"Como desee.`
-` ... Battler‐sama, Ange‐sama, por favor síganme."`
+` ... Battler‐sama, Ange‐sama, síganme por favor."`
 `"Gracias.`
 ` ... Bien, Beato.`
 ` Hasta más tarde."`
@@ -331,7 +331,7 @@
 `Probablemente tomar una siesta sería lo mejor para ella.`
 `Battler caminó por el ventoso jardín de rosas, tirándola de la mano.`
 `Cuando interrogó a su guía, Genji, se enteró de que el viejo sirviente había sabido de antemano el deseo de Kinzo de devolver el oro a Beato...`
-`Y resolver el problema de la herencia pronto.`
+` Y de resolver el problema de la herencia cuanto antes.`
 `"... El maestro decidió comenzar tempranamente los preparativos para su tarea final en este mundo, el final de su vida."`
 `"La mayoría de gente no piensa mucho sobre lo que pasa tras su muerte...`
 ` Jaa.`
@@ -339,15 +339,15 @@
 `"Hoy se celebra el día de un nuevo vuelo, en el que la familia Ushiromiya abandonará el patrocinio de la Bruja Dorada."`
 `"... Muy cierto.`
 ` Jeje, esa es una forma genial de decirlo."`
-`Aparentemente, esta noche se iba a celebrar una gran fiesta de halloween,`
+`Aparentemente, esta noche se iba a celebrar una gran fiesta de Halloween,`
 ` y se le había ordenado a Gohda y al resto comenzar los preparativos.`
 `Sin embargo, no sería sólo una fiesta.`
 `Se trataría de una ceremonia para marcar la devolución del oro de {f:5:Beatrice}.`
 `Al comienzo de la cena, el abuelo haría el anuncio,`
 ` y la familia Ushiromiya aplaudiría en gratitud a las tres generaciones de {f:5:Beatrice}s por su generosidad a lo largo de los años.`
-`O al menos eso era lo que había planeado.`
+`O, al menos, eso era lo que había planeado.`
 `"¿Aún es un secreto para papá y los demás?"`
-`"Técnicamente, lo es.`
+`"Estrictamente hablando, lo es.`
 ` ... Sin embargo, el maestro no comenzó a pensar de este modo repentinamente hoy.`
 ` Ha considerado este día con frecuencia durante muchos años, e incluso ha discutido ciertos asuntos con sus hijos.`
 ` Dudo que alguien se sorprenda por el anuncio de esta noche."`
@@ -368,16 +368,16 @@
 `"Tener un funeral mientras aún estás vivo suena deprimente.`
 ` Admito que llamarlo el día de un nuevo viaje para abandonar el nido encaja mucho mejor con la familia Ushiromiya."`
 `"... Onii‐chan... sueño..."`
-`"Mira, ya casi llegamos a la casa de invitados.`
+`"Mira, ya casi llegamos a la casa de huéspedes.`
 ` ¿Quieres ir a la habitación de mamá?`
 ` ¿O a la de los primos?"`
 `"Me da igual...`
 ` Voy a... dormir hasta la cena..."`
 `Ange, sosteniendo aún la mano de su hermano, se agachó como si estuviera a punto de quedarse dormida.`
-`Battler la levantó sobre su espalda y la cargó.`
+`Battler la levantó y cargó sobre su espalda.`
 `Al sentir el calor y la seguridad de la espalda de su hermano, Ange se quedó dormida...`
 `¿Qué ocurrió ese día...?`
-`¿Qué rayos ocurrió durante el 4 y 5 de octubre de 1986?`
+`¿Qué rayos ocurrió durante el 4 y 5 de Octubre de 1986?`
 `Debido al tamaño masivo del accidente de la explosión en Rokkenjima, el momento en que ocurrió se conocía casi de manera exacta. `
 `El momento fue...`
 `... al filo de la medianoche del 5 de octubre.`
@@ -385,7 +385,7 @@
 `Posteriormente, se recogieron las siguientes declaraciones de individuos que conocieron a Ushiromiya Kinzo cuando estaba vivo.`
 `Durante su vida, construyó un reloj diseñado para hacer volar la isla exactamente a la medianoche.`
 `Aparentemente, dicho reloj estaba dentro de su estudio secreto.`
-`Cuando se sentía mentalmente acorralado y quería pensar en un plan brillante,`
+` Cuando se sentía mentalmente acorralado y quería pensar en un plan brillante,`
 ` activaría este dispositivo y usaría la tensión de la medianoche aproximándose para tener algún destello de inspiración.`
 `Con Ushiromiya Kinzo aún vivo, esto sólo se consideraba otro cuento fantástico sobre un hombre excéntrico...`
 ` pero el hecho de que la explosión ocurriera exactamente a medianoche impulsó aún más la historia...`
@@ -422,7 +422,7 @@
 ` ¿Qué pasó ese día?`
 `Cada vez que respondía, era para decir que no lo recordaba.`
 `Pero... bueno, ella debió haber estado sobresaltada en su momento.`
-`{n}La primera vez que le pregunté, respondió con:`
+`{n}Porque la primera vez que le pregunté, respondió con:`
 `"No puedo decírtelo."`
 `Fue un desliz.`
 ` Sabía lo que había pasado ese día.`
@@ -431,15 +431,15 @@
 ` y abandonó este mundo, llevándose la llave consigo.`
 `Sólo puede haber una respuesta.`
 `Ella estuvo detrás de todo.`
-`{n}Se quedó con todas las riquezas de la familia y se volvió super rica.`
-`Y tras eso, lamentó el hecho de que su amado hijo jamás heredaría lo que ella había creado... y me maldijo a mí.`
+`{n}Se quedó con todas las riquezas de la familia y se volvió una magnate de renombre.`
+`Tras eso, lamentó el hecho de que su amado hijo jamás heredaría lo que ella había creado... y me maldijo a mí.`
 `... El sólo recordar a esa vieja bastarda me da ganas de vomitar.`
 `¿Qué pasó ese día?`
 ` Eso es lo que quiero saber.`
 `Es mi única meta, la razón por la que aún vivo.`
-`No obstante, más tarde tuve que aceptar el hecho de que mi objetivo era abstracto.`
+`No obstante, más tarde tuve que aceptar el hecho de que mi objetivo era demasiado abstracto.`
 `Después de todo, incluso si no sé lo que transcurrió ese día...`
-`En cuanto a {i:quién} cometió el crímen,`
+`Si hablamos sobre {i:quién} cometió el crímen,`
 ` eso ya está claro.`
 `Ushiromiya Eva.`
 ` Ella es la culpable.`
@@ -460,7 +460,7 @@
 `No la perdonaré.`
 `{n}Prometo... juro que...`
 `{n}La odiaré y vengaré a mi familia.`
-`Esa es la única razón de existir de Ushiromiya Ange...`
+`Esa es la única razón por la que existe Ushiromiya Ange...`
 `"Jajjajajaja.`
 ` Si supiera que la odian tanto, la presidente probablemente estaría retorciéndose de risa en el otro mundo."`
 `"... Cállate.`
@@ -474,26 +474,26 @@
 `"¿Oh?`
 ` ¿M. Zakky no es de tu agrado?"`
 `Amakusa apagó la radio.`
-`El ruido sordo del motor se convirtió en la música de fondo.`
+`El ruido sordo del motor se convirtió en la nueva música de fondo.`
 `"¿Hay algo de raro en eso?`
 ` Pelear por venganza."`
 `"No realmente.`
-` He conocido muchas veces a personas que vivían con ese propósito en el frente."`
+` Varias veces me tocó conocer a personas que vivían con tal propósito en el frente."`
 `"... Has estado en campos de batalla múltiples veces como mercenario, ¿no?"`
 `"Bueno, he visto unos cuantos."`
 `"Así que, las personas que pelean por vengar a su familia...`
 ` ¿son fuertes?"`
 `"No cabe duda.`
-` ... Algunos hasta se colocan bombas y se suicidan con ese fin.`
-` Los humanos son más que capaces de morir por venganza."`
+` ... Algunos hasta se colocan bombas y mueren con ese fin.`
+` Los humanos son más que capaces de suicidarse por venganza."`
 `"... Es cierto.`
 ` Yo también podría hacerlo."`
 `"¿Has escuchado de los niños soldados?"`
-`"¿Te refieres a los infantes que pelean como soldados?"`
+`"¿Te refieres a los infantes con aptitudes de soldado?"`
 `"Eso mismo.`
 ` Niños que han perdido a sus padres sin tener adónde ir a veces son reclutados por grupos rebeldes armados, y se convierten en soldados.`
-` ... Les ponen un arma en la mano, y les enseñan cómo vengarse.`
-` ... Pero al final, los niños son prescindibles.`
+` ... Les ponen un arma en la mano, y les enseñan sobre venganza.`
+` ... Pero, al final, los niños son prescindibles.`
 ` Cualquiera puede ser un soldado en el campo de batalla si puede apretar el gatillo."`
 `"¿Tratas de decir que soy así?"`
 `"La venganza puede ser una razón para vivir.`
@@ -515,7 +515,7 @@
 `"¿Porque han olvidado su venganza?"`
 `"Cuando les es imposible vengarse, eventualmente se cansan y olvidan su propósito original.`
 ` Cuando eso sucede, no tienen nada más que su arma.`
-` Con el tiempo, seguirán disparando sólo para poder comer"`
+` Con el tiempo, seguirán disparando sólo para poder comer."`
 `"... Estás diciendo que los niños que comenzaron usando sus armas para la venganza...`
 ` ¿terminan siendo bandidos o algo?"`
 `"Después de todo, ni siquiera han ido a la escuela ni se les ha enseñado habilidades útiles en lo que respecta a un empleo."`
@@ -558,14 +558,14 @@
 `"Y ahora es lo mismo.`
 ` ¿Qué cambió?"`
 `"Ahora dices...`
-` que quieres conocer lo que pasó para poder exponer el crímen de Ushiromiya Eva."`
+` que quieres conocer lo que pasó para exponer el crímen de Ushiromiya Eva."`
 `"¿Y no es eso exactamente lo mismo?"`
 `"... Bueno, eso es cierto."`
 `"Estoy cansada, voy a dormir.`
 ` ¿Te importaría hacer silencio un rato?`
 ` Avísame cuando lleguemos."`
 `"A la orden."`
-`No estaba particularmente cansada realmente.`
+`No estaba particularmente cansada en realidad.`
 `{n}Sólo lo dije porque no me gustaba hablar de este tema.`
 `"No te vuelvas uno.`
 ` Un niño soldado."`
@@ -575,7 +575,7 @@
 `"Comenzaste este viaje en busca de la verdad.`
 ` Y se está convirtiendo cada vez más y más en un viaje de venganza.`
 ` ... Un viaje de venganza al exponer la verdad.`
-` Pero, como ya sabes, ya no queda nada en Rokkenjima.`
+` Pero, como ya sabes, no hay nada en Rokkenjima.`
 ` No quedó rastro alguno.`
 ` ... Puede que exponer la verdad no sea un paseo por el parque."`
 `... Sé lo que Amakusa trata de decir.`
@@ -584,7 +584,7 @@
 `... Si la verdad pudiera ser descubierta por una chica como yo, agitando fajos de billetes para recoger poco a poco información de aquellos relacionados al incidente,`
 ` alguien ya la habría expuesto hace mucho tiempo.`
 `Puede que no sea capaz de alcanzar la verdad.`
-`Si eso sucede... entonces mi primer deseo—exponer la verdad—probablemente se desvanecerá.`
+`Si eso sucede... mi primer deseo, exponer la verdad, probablemente se desvanezca.`
 `Tras eso, lo único que quedará será mi odio hacia Eva.`
 `Al igual que los niños soldados, que olvidan su propósito original y viven sólo para disparar...`
 `Olvidaré mi propósito original... y viviré sólo para odiar.`

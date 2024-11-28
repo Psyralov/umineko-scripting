@@ -8,7 +8,7 @@
 `Battler estaba gritando.`
 `{n}La otra persona estaba… ¿riendo?`
 `"¡¡Caer, caer, me voy a caeeeeeeerrrr!!`
-` Nooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooo...!!"`
+` ¡¡Nooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooo...!!"`
 `"¡¡Divertido, divertido, qué divertidooooooo!!`
 ` ¡¡*risita*, *risita*risita*!!"`
 `"¡¡Battler luce raro, Battler luce raro!!`
@@ -44,13 +44,13 @@
 ` ¡Tú también, Ange!`
 ` ¡¡N‐nooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooo!!"`
 `"Gracias al cielo.`
-` La salud de Ange me tenía preocupada, pero parece sentirse bien."`
+` La salud de Ange me tenía preocupada, pero todo parece estar bien."`
 `"Habría sido muy triste dejarla sola en casa.`
 ` Me alegra que hayamos decidido traerla de todos modos."`
 `"¿No se encontraba muy enferma poco antes de marchar?"`
 `"Se sintió mucho mejor esta mañana.`
 ` A veces los niños pueden ser increíbles."`
-`"¡Apuesto que es de las personas que se enferma cuando ‘tá estresada o exaltada!`
+`"¡Apue’to que es de las personas que se enferman cuando ‘tan estresadas o exaltadas!`
 ` No es raro en gente así el sentirse mejor cuando llega el gran día."`
 `"Debe haber estado ansiosa por jugar con todos sus primos."`
 `"Jo‐jo‐jo.`
@@ -64,16 +64,16 @@
 `Los niños corrieron todo el camino que conecta el puerto con el jardín de rosas.`
 `Probablemente estaban tan llenos de energía que hasta caminar se les hacía aburrido.`
 `"¡Wajajajaja!`
-` ¿¡Ven eso?!`
+` ¡¿Vieron eso?!`
 ` ¡Primer lu~gar!"`
 `Battler fue el primero en cruzar la línea de meta, que era la entrada al jardín de rosas.`
-`Al parecer, estaba tratando de compensar la deshonra que había sufrido en el bote demostrando su superioridad en tierra.`
+`Al parecer, intentaba compensar la deshonra que había sufrido en el bote demostrando su superioridad en tierra.`
 `Poco después, Ange y María lo alcanzaron estando muy a la par.`
-`"¡¡Soy segunda!!`
+`"¡¡Segunda!!`
 ` ¡¡Soy más rápida que Ange, uu-uu-uu!!"`
-`"¡No, mentira! ¡María onee-chan hizo trampa!!`
+`"¡No, mentira! ¡¡María onee-chan hizo trampa!!`
 ` ¡¡Yo soy segunda!!"`
-`La separación de 3 años entre Ange y María se hacía notar, especialmente siendo que ambas eran niñas aún en desarrollo.`
+`La diferencia de 3 años entre Ange y María se hacía notar, especialmente tomando en cuenta que ambas eran niñas aún en desarrollo.`
 `Era natural que María fuese más rápida, sin embargo Ange parecía estarse quejando de un golpe de hombro en la línea de salida.`
 `¡María onee-chan hizo trampa, así que ella tiene el último lugar!`
 ` ¡La maestra siempre dice que te corresponde el último lugar si haces trampa! … Protestó Ange.`
@@ -83,13 +83,13 @@
 ` Ah, la brisa se siente bien."`
 `"¿Fuera de forma, George-aniki?`
 ` Sabes, quienes corren contrarreloj a diario obtienen piernas fuertes automáticamente."`
-`"En otras palabras, ser buen corredor es prueba de que duermes más de la cuenta."`
+`"En otras palabras, ser buen corredor es prueba de que te duermes más de la cuenta."`
 `"¡Onii-chan siempre se queda dormido!`
 ` ¡Tampoco se levantó hoy, así que tuve que despertarlo!`
 ` ¡¿Verdad?!"`
 `"Tras un pisotón, seguido de un codazo aéreo,`
 ` finalizado por una plancha corporal desde la cuerda superior, me di por acabado."`
-`"Después de un despertar así, suena a que no te levantarías nunca más…"`
+`"Después de un despertar así, suena a que no te levantarías nunca más..."`
 `"¡Suena divertido!`
 ` ¡Yo también quiero hacerlo, yo también quiero!"`
 `"¡Apuesto a que onii-chan se queda dormido mañana!`
@@ -99,25 +99,25 @@
 `Los primos los saludaron, y parecían estar apresurándolos.`
 `{n}Ange y María estaban tan emocionadas que apenas podían esperar.`
 `Simplemente teniendo a los cinco primos reunidos…`
-`{n}Simplemente con la adición de Ange al grupo…`
+`{n}Con la simple adición de Ange al grupo…`
 `Mira cuán enérgico se ha vuelto este día.`
 `"Con permiso.`
 ` Los miembros de la familia han llegado."`
-`"’¿Entonces llegaron sanos y salvos?`
+`"¿Entonces llegaron sanos y salvos?`
 ` Debo hacérselo saber a padre."`
 `"¿Están en la casa de invitados?"`
 `"Sí.`
 ` Vendrán a saludar apenas hayan dejado el equipaje."`
 `"Entendido.`
 ` Kanon, por favor guíalos a todos.`
-` Shannon, prepara un té."`
+` Shannon, prepara el té."`
 `""A sus órdenes, madam.""`
 `"Padre. Soy yo, Krauss.`
 ` Va siendo hora de que se prepare."`
 `Después de que Krauss tocara la puerta, ésta se abrió desde dentro.`
 `"Oh, doctor Nanjo.`
 ` ¿Cómo se encuentra padre?"`
-`"No hay que preocuparse.`
+`"No hay de qué preocuparse.`
 ` Se está cambiando mientras hablamos.`
 ` Creo que sólo está un poco nervioso."`
 `"¡¡¿A quién llamas nervioso?!!`
@@ -126,9 +126,9 @@
 ` ¡Mis posesiones jamás deben ser movidas sin mi aprobación...!"`
 `Aparentemente, Kinzo había estado en pánico por un tiempo por el simple hecho de elegir una corbata y alfiler.`
 `Kinzo, quien valoraba la dignidad del líder de la familia por encima de cualquier otra cosa, siempre prestaba especial importancia a portar una vestimenta adecuada.`
-`"... ¿Lo logrará a tiempo?"`
+`"... Me pregunto cuándo estará listo"`
 `"¿Crees poder darnos un poco más de tiempo?`
-` Bajaremos tan pronto esté listo."`
+` Bajaremos tan pronto se haya preparado."`
 `"Entendido.`
 ` Cuento con usted, doctor Nanjo.`
 ` … Padre.`
@@ -145,41 +145,41 @@
 ` Mmm..."`
 `Mientras Krauss observaba a Kinzo ser calmado por Nanjo,`
 ` se comenzó a preguntar por qué este último no era su madre.`
-`Bueno, siempre era lo mismo`
+`Bueno, siempre era lo mismo.`
 `Siempre hace barullo cuando nadie lo observa. Pero llegado el momento, toma sus decisiones con orgullo.`
-`Tras pedirle a Nanjo que baje a más tardar para la hora del almuerzo, salió del estudio...`
+`Tras pedirle a Nanjo que bajaran a más tardar para la hora del almuerzo, salió del estudio...`
 `"¿Qué opinas? ¡Un aroma espléndido! ¿O no?`
 ` ¡Y único, también!"`
-`"Nunca he probado té de calabaza antes...`
+`"Jamás había probado té de calabaza...`
 ` Ese pequeño toque de dulzura lo vuelve delicioso."`
-`Antes de servirlo a los invitados, Gohda le sirvió un poco de té a Shannon.`
-`Hasta entonces, Shannon había considerado impensable que una sirviente como ella tomara lo mismo que la familia y sus invitados.`
+`Antes de presentarlo frente a los invitados, Gohda le sirvió un poco de té a Shannon.`
+`Hasta entonces, Shannon había considerado impensable que una sirviente bebiera lo mismo que la familia y sus invitados.`
 `Sin embargo, para Gohda, esa ideología era errónea.`
-`"Uno no debe servir algo cuyo sabor no conozca de antemano`
+`"No debes servir algo cuyo sabor no conozcas de antemano`
 ` ... Por ejemplo, cuando vas a un restaurante,`
-` ¿qué es lo que posiblemente le preguntarías al mesero si un platillo que desconoces capta tu atención?`
+` ¿qué le preguntarías al mesero si un platillo que desconoces capta tu atención?`
 ` ‘Cómo sabe este platillo’, ¿o no?"`
 `"Entiendo...`
 ` Si el mesero dice que nunca lo ha probado, quedaría un poco extraño..."`
 `"Precisamente.`
-` Por rutina, todo aquel que sirva a sus clientes debe estar profundamente familiarizado con el sabor del té y la comida que sirven."`
+` Por rutina, todo aquel que interactúe con sus clientes debe estar profundamente familiarizado con el sabor del té y la comida que sirve."`
 `"Jo‐jo‐jo‐jo.`
-` Además siempre te hará más feliz servir un té que tú misma hayas probado y disfrutado."`
+` Además, siempre te hará más feliz servir un té que tú misma hayas probado y disfrutado."`
 `"Cierto.`
 ` Tras probar un té tan delicioso, no puedo esperar a que lo prueben los demás."`
-`"¡Y por eso mismo!`
-` Los sirvientes debemos conocer bien el sabor de todo tipo de alimentos.`
-` Así que si me atrapan dándole mordisquitos, todo está en el contrato… Jo-jo-jo."`
+`"¡Eso mismo!`
+` Es por eso que los sirvientes debemos conocer bien el sabor de todo tipo de alimentos.`
+` Por lo que si me atrapan dándole mordisquitos, es todo parte del contrato… Jo-jo-jo."`
 `"Es tanto un beneficio como parte del trabajo.`
 ` ¿Entendido?"`
 `"¡Sí!"`
 `"... Todo marcha correctamente.`
 ` ¿Hay algún problema con el té?"`
-`"Oh, Genji‐san, tú también debes probar un poco.`
+`"Oh, Genji‐san, usted también debería probar un poco.`
 ` Siendo que casi es Halloween, decidí hacer una infusión de calabaza."`
-`"Quizá luego.`
+`"Quizás luego.`
 ` La familia llegará a la mansión en breve.`
-` … Tal parece que los niños los acompañarán."`
+` … Parece que los niños los acompañarán."`
 `"Entendido.`
 ` Las tazas están listas para servirse."`
 `En ese momento, la línea de extensión de la cocina comenzó a sonar.`
@@ -187,27 +187,27 @@
 `Shannon y los demás siempre pensaban que Genji parecía un samurai cada vez que hacía esto.`
 `"... Bien.`
 ` Guíalos con las debidas precauciones."`
-`Tras dar esa respuesta corta, Genji colgó.`
+`Tras dar esa corta respuesta, Genji colgó.`
 `"Era Kanon.`
-` Los familiares están por llegar.`
-` Los niños los acompañan.`
+` Los familiares ya casi llegarán.`
+` Los niños también vienen.`
 ` Shannon, Kumasawa, vayan a servirles.`
 ` Gohda, apresura el té."`
 `"""¡A la órden!"""`
-`La conferencia familiar—el evento anual más importante para los sirvientes.`
-` Su moral se alzaba, y estaban completamente determinados a superar otro año juntos.`
+`La conferencia familiar era el evento anual más importante para los sirvientes.`
+` Su moral se alzaba, y se encontraban completamente determinados a superar otro año juntos.`
 `"Disculpen la interrupción.`
 ` Los familiares están aquí."`
 `"Jo, lo lograron.`
 ` ¿Encontraron alguna dificultad en el camino?"`
-`"Nii-san, te ha estado yendo bastante bien últimamente, ¿O no?`
+`"Nii-san, te ha ido bastante bien últimamente, ¿Verdad?`
 ` ¿No va siendo hora de comprar un jet privado?"`
 `"Wajajaja.`
-` ¡Fue otro vuelo con sólo nosotros, los Ushiromiyas, a bordo!"`
+` ¡Fue otro vuelo con sólo nosotro’, lo’ Ushiromiyas, a bordo!"`
 `"Ange‐chan,`
 ` ¿no es toda una fortuna que pudieses venir?`
-` Me preocupé cuando escuché que quizá estarías muy enferma para venir hoy."`
-`"Gracias por preocuparte.`
+` Me preocupé cuando escuché que quizá estarías muy enferma para asistir hoy."`
+`"Agradezco la preocupación.`
 ` De repente se sintió mucho mejor esta mañana."`
 `"¡El dolor en mi pancita se fue!`
 ` ¡La froté en sentido del reloj!"`
@@ -217,59 +217,59 @@
 `"¡Oh, ¿ese es Battler‐kun...?!`
 ` ¡Mira cuánto has crecido!"`
 `"Han pasado seis años, ¿o no?`
-` Un crecimiento ejemplar."`
-`"Bueno… ijiji.`
-` Pues sí que sigo creciendo, al menos."`
+` Un crecimiento espléndido."`
+`"Bueno... ijiji.`
+` Pues sí que sigo creciendo."`
 `"¡Aunque no podemos decir lo mismo de sus agallas!"`
-`"Síp, es bueno saber que aún es el mismo Battler de siempre."`
+`"En efecto, es bueno saber que aún es el mismo Battler de siempre."`
 `Todos rieron.`
 ` No importaba cuánto creciera su cuerpo, Battler siempre sería Battler.`
-`"Este mocoso siempre le tuvo terror a caerse de aviones y barcos y demás."`
+`"Este mocoso siempre le tuvo terror a caerse de aviones, barcos y demás."`
 `"¿Será por la sangre de Asumu?"`
-`"Estoy bastante seguro de saber lo que lo ocasionó.`
+`"Tengo una idea de lo que lo ocasionó.`
 ` Probablemente sea porque lo hicimos subirse a todas esas atracciones locas en los parques de diversiones cuando niño."`
 `"¿No hay restricciones de altura para evitar que los niños se suban a esas?"`
 `"Ah, no, no esas.`
 ` Estoy hablando de paseos en tazas, botes de remos, todas esas cosas, ¿sabes?`
-` Parece que nos lo tomamos demasiado en serio en su momento."`
-`"Siempre se emocionan demasiado en atracciones como esa, Rudolf nii-san."`
-`"Ay, cielos... ya veo...`
-` Pobre Battler-kun."`
+` Parece que se lo tomó muy a pecho en su momento."`
+`"Siempre te has excedido en ese tipo de atracciones, Rudolf nii-san."`
+`"Ay, cielos... ya veo.`
+` Pobrecito."`
 `"Jaja, en efecto, pobre Battler-kun."`
 `"Aún así, de cierto modo es reconfortante.`
-` Tal miedo a subirse a cosas nos demuestra que es el Battler-kun que tan bien conocemos."`
+` Ese temor a subirse a cosas nos confirma que es el Battler-kun que conocemos tan bien."`
 `"Onii-chan no teme subirse a cosas.`
-` ¡Teme caerse de ellas!"`
+` ¡Le da miedo caerse de ellas!"`
 `"¡¡Caeeer!! ¡¡Me voy a caeeer!!`
-` Uu‐uu‐uu!!"`
+` ¡¡Uu‐uu‐uu!!"`
 `"Oigan, ¡dejen de correr!`
-` ¡María! Eres parte de los primos grandes ahora, ¿o no?`
+` ¡María! Eres de los primos grandes ahora, ¿cierto?`
 ` ¡Da un buen ejemplo!"`
 `"Con permiso.`
 ` He traído algo de té para todos."`
-`Un aroma plácido acompañó a Shannon mientras entraba junto a un carrito de servicio.`
-`Incluso Ange y María, que habían estado corriendo en círculos, se sentaron obedientemente al escuchar que las bebidas habían llegado.`
+`Un aroma plácido acompañaba a Shannon mientras entraba con un carrito de servicio.`
+`Incluso Ange y María, que habían estado correteando en círculos, se sentaron obedientemente al escuchar que las bebidas habían llegado.`
 `"Por cierto, ¿qué está haciendo papá?"`
 `"Debería bajar pronto.`
 ` Ha estado toda la mañana a los apuros intentando escoger una corbata."`
-`"¿Te refieres a todo eso de elegir un atuendo digno del líder de la familia?"`
-`"Padre siempre ha sido muy exigente con respecto a elegir corbatas, ¿verdad?"`
+`"¿Te refieres a eso de elegir una vestimenta digna del líder de la familia?"`
+`"Padre siempre ha sido muy exigente a la hora de elegir corbatas, ¿verdad?"`
 `"Es algo que lo apasiona.`
-` Tener sentido de la moda es algo positivo."`
-`"Y a pesar de todo, siempre aparece con la misma corbata al final."`
+` Considero que tener sentido de la moda es algo positivo."`
+`"Y, a pesar de todo, siempre aparece con la misma corbata al final."`
 `Los familiares se echaron a reír.`
 `La dulce esencia del té de calabaza elaborado por Gohda se extendió por todo el salón, y la tranquila atmósfera se volvió más animada.`
 `"¡Mira, mamá! ¡Mira, mamá!`
-` ¡Es una galleta calabaza! ¡Por halloween!"`
+` ¡Es una galleta de calabaza! ¡Por Halloween!"`
 `"Oh, es cierto.`
-` Este dulce aroma es kabocha, ¿cierto?"`
+` Este dulce aroma es kabocha, ¿o no?"`
 `"En efecto.`
 ` Tenemos un té especial con sabor a calabaza para que prueben hoy.`
-` Es muy delicioso, por lo que sugiero que lo prueben sin azúcar primero."`
+` Es realmente delicioso, por lo que sugiero que lo prueben sin azúcar primero."`
 `"Nee-san, tu manga.`
 ` Con cuidado."`
-`"Wow,`
-` Ni siquiera había oído hablar del té de kabocha...`
+`"Guau,`
+` ni siquiera había oído hablar del té de kabocha...`
 ` ¿Cómo encuentra Gohda estas cosas?"`
 `"Delicioso.`
 ` Sabe excelente.`
@@ -280,21 +280,21 @@
 ` ¡No es ‘kabocha’, es ‘calabaza’!"`
 `"Sí, ¡la calabaza y el kabocha son diferentes!`
 ` ¡Esto es calabaza!"`
-`María parecía estar quejándose de la diferencia de matices entre las palabras en inglés y japonés.`
-` pero Ange parecía entender que el kabocha y las calabazas eran cosas completamente diferentes.`
-`Todos rieron, excepto Ange que ladeó su cabeza en descontento, sin entender qué era tan gracioso.`
-`Justo cuando parecía que se pondría de mal humor y a quejarse, María comenzó a enseñarle su “juego de la galleta”, y Ange inmediatamente quedó absorta en esa distracción.`
+`Aparentemente, María estaba recalcando la diferencia de matices entre las palabras en inglés y japonés,`
+` pero Ange parecía entender que kabocha y calabaza eran cosas completamente distintas.`
+`Todos rieron excepto Ange, que ladeó su cabeza en descontento, sin entender qué era tan gracioso.`
+`Justo cuando parecía que se pondría a refunfuñar por el mal humor, María comenzó a enseñarle su “juego de la galleta”, y Ange inmediatamente quedó absorta en esa distracción.`
 `Entonces, el fuerte sonido de pisadas acercándose se pudo escuchar desde el pasillo.`
 `Teniendo buena noción sobre a quién le pertenecían, los familiares enderezaron sus espaldas.`
 `Esos pasos rápidos se detuvieron justo en la puerta del salón.`
 `... Como si alguien estuviera tomando un respiro hondo y preparando una pausa dramática.`
-`Entonces, mientras la puerta se abría de golpe, Kinzo—con Genji y Nanjo a sus espaldas—gritó.`
-`"<Hhhhhhappy halloween!!`
+`Entonces, mientras la puerta se abría de golpe, Kinzo, con Genji y Nanjo a sus espaldas, gritó.`
+`"<Hhhhhhappy Halloween!!`
 ` And trick or tree{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}a{-}a{-}a{-}a{-}aat!!>"`
 `"""<Trick‐or‐treeeeat!!>"""`
-`Los primos le devolvieron el grito.`
-`{n}Los adultos también le devolvieron el saludo, luciendo ligeramente avergonzados.`
-`Únicamente Ange quedó boquiabierta,`
+`Los primos le devolvieron el saludo.`
+`{n}Y los adultos también, luciendo ligeramente avergonzados.`
+`Ange fue la única en quedar boquiabierta,`
 ` sin poder comprender lo que había pasado.`
 `"¡¡Bienvenidos, nietos míos!!`
 ` ¡¡Si no me dan dulces, les haré una travesura!!"`
@@ -319,7 +319,7 @@
 `"Sí, espléndido.`
 ` ¡Genji...!"`
 `"Por aquí."`
-`Genji buscó en algo que parecía un saco de Santa Claus y sacó un presente dirigido a María,`
+`Genji buscó en algo parecido a un saco de Santa Claus y sacó un presente dirigido a María,`
 ` pasándoselo a Kinzo.`
 `"¡¡Aquí tienes, María~!!`
 ` ¡¡Un regalo de tu abuelito!!`
@@ -327,9 +327,9 @@
 ` Es casi un desperdicio tener que entregártelo{p:0:♪}"`
 `"... Maestro. Su dignidad."`
 `"Nnngggyyyyhhhh...`
-` E-este es un presente otorgado por el líder de la familia Ushiromiya para María...`
+` E-el siguiente es un presente otorgado en nombre del líder de la familia Ushiromiya para María...`
 ` Es un... lindo... nnnggg, *tos*tos*...`
-` u-un objeto acorde a la elegancia y dignidad de la familia Ushiromiya.`
+` u-un objeto acorde a la elegancia y dignidad de nuestra honorable familia.`
 ` C-cuídalo muy bien..."`
 `"¡¡Gracias, abuelo!!`
 ` ¡¡Te quiero!!`
@@ -338,52 +338,52 @@
 ` ¡¡Ooohhh, Maríaa{-}a{-}a{-}aaa, mi pequeña y linda nieta!!`
 ` ¡¡¡Besito besito besitooo~!!!"`
 `"..."`
-`Para este punto, incluso Genji dio por perdida la dignidad de Kinzo.`
-`Aún así, este año la dignidad del líder de la familia había durado diez segundos más de lo usual.`
-`"Feliz halloween, abuelo.`
+`Para este punto, incluso Genji dio por perdida la dignidad del líder de la familia.`
+`Aún así, este año había durado diez segundos más de lo usual.`
+`"Feliz Halloween, abuelo.`
 ` Esto va de mi parte."`
-`"Feliz halloween. Este es el mío.`
+`"Feliz Halloween. Este es el mío.`
 ` Espero que te guste."`
 `"Oooooh, George, Jessica,`
-` Les agradezco por un año más.`
+` les agradezco por un año más.`
 ` Estoy tan... tan contento..."`
 `Con lágrimas recorriendo su rostro, Kinzo abrazó a George y Jessica.`
 `"Oh, y Battler también.`
 ` ... Me alegra que hayas regresado a la familia.`
 ` ... Todo ha sido tan solitario sin ti estos seis años..."`
 `"... Bueno... um, en fin...`
-` ... feliz halloween.`
+` ... feliz Halloween.`
 ` Aunque no sé si te gustará..."`
 `"No te preocupes... No te preocupes, Battler...`
 ` Sé que tienes cosas qué decir, preguntas que quieres hacer.`
 ` ... Pero aún no es el momento."`
 `"Abuelo..."`
 `"Estoy... feliz de que hayas vuelto a la familia Ushiromiya...`
-` ... Me llena de... alegría..."`
+` Me llena de... alegría..."`
 `Lentamente, Kinzo avanzó y abrazó a Battler.`
-`Battler retrocedió en un inicio, pero entonces entendió los sentimientos de Kinzo y le correspondió el gesto.`
-`Ange observó dicha escena... en shock.`
-`¿Ushiromiya Kinzo... siempre había sido esta clase de persona...?`
+`Battler retrocedió en un inicio, pero entonces entendió sus sentimientos y le correspondió el gesto.`
+`Ange observó dicha escena... atónita.`
+`¿Había sido Ushiromiya Kinzo... siempre este tipo de persona...?`
 `"Ange.`
 ` Te toca."`
 `"Adelante, dáselo al abuelo."`
-`"... Ah...  ...okay."`
+`"... Ah... okay."`
 `Ange... no tenía idea de lo que estaba pasando.`
 `Tomó el regalo que le había dado su madre... y caminó tímidamente.`
 `... La cara de Kinzo, que se había visto tan animada hasta hace un momento,`
 ` parecía haberse vuelto mucho más severa en el momento que Ange avanzó.`
-`No, no se “había vuelto” severa.`
-`Esa expresión... era la siempre usada por el Kinzo dentro de la mente de Ange.`
+`No. No se “había vuelto” severa.`
+`Esa expresión... era la siempre utilizada por el Kinzo dentro de la mente de Ange.`
 `Este {i:era} Ushiromiya Kinzo.`
 `Era inconstante, temperamental, y siempre tenía una expresión severa en su rostro.`
 ` ... La persona más terrorífica de la familia Ushiromiya...`
 `"..."`
 `"..."`
-`Se sintió como si de repente el mundo se hubiese apagado, y que sólo lo había hecho cuando fue mi turno de pasar al frente.`
+`Se sintió como si de repente el mundo se hubiese apagado, y que sólo lo hizo cuando fue mi turno de pasar al frente.`
 `... ¿Por qué?`
 ` ¿Por qué sólo en mi caso?`
-`Pero, a pesar de todo… ¿no es así cómo debería ser?`
-`{n}¿No es este el Ushiromiya Kinzo que esperaba? ... ¿El Ushiromiya Kinzo que entiendo...?`
+`Pero, a pesar de todo... ¿no es así cómo debería ser?`
+`{n}¿No es este el Ushiromiya Kinzo que esperaba...? ¿El Ushiromiya Kinzo que entiendo...?`
 `Era como un títere cargando té.`
 `{n}Caminé hacia adelante, perpleja, sosteniendo el presente frente a mí... y me detuve frente a Kinzo.`
 `Sin permitir que su expresión se altere en lo más mínimo,`
@@ -397,29 +397,29 @@
 ` ¡¡Tan feliz que las lágrimas no... no se detienee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}een!!"`
 `"... Maestro, le moquea la nariz.`
 ` ... Eso... y su dignidad."`
-`"¡¡Oh, Genji, me disculpo!!`
-` ¡¡Yo...alwa{0}n{0}t{0}h{0}f{0}n{0}h{0}h{0}h{0}hnnn...`
+`"¡¡Oh, Genji, mis disculpas!!`
+` ¡¡Yo... siem{0}n{0}p{0}h{0}f{0}n{0}h{0}h{0}h{0}hnnn...`
 ` *resoplido*!!"`
 `Mientras el abuelo se sonaba la nariz, no parecía ni por asomo ser algo más que un cariñoso abuelo abrumado hasta las lágrimas por los regalos de sus nietos.`
 `"Gracias, Ange.`
-` Escuché que decidiste venir incluso si no te sentías para nada bien...`
+` Escuché que decidiste venir incluso cuando no te sentías para nada bien...`
 ` ¡Estoy tan contento...!`
 ` Toma, esto es para ti."`
 `Presionó una gran caja de regalo en el pecho de Ange.`
-`... Ella finalmente se percató de que todos los regalos que había entregado Kinzo estaban envueltos de forma diferente y en cajas de diferentes tamaños.`
+`... Y ella se percató de que todos los regalos que había entregado Kinzo estaban envueltos de forma diferente y en cajas de distintos tamaños.`
 `"Me pregunto qué te consiguió, Ange.`
 ` He oído que el abuelo siempre elige personalmente el regalo que nos va a dar a cada uno.`
 ` Bastante increíble, con toda esta gente."`
 `"... Cada año...`
-` ... los elige él mismo...`
-` ..."`
+` los elige él mismo...`
+` Mm..."`
 `Él hace...`
 `¿qué cada año?`
 `{n}Elige...`
-`... ¿qué personalmente?`
+` ¿qué personalmente?`
 `Esta bizarra ceremonia ocurre... cada año.`
-`Los primos estaban charlando alegremente sobre cuáles serían sus regalos de halloween este año.`
-`María se acercó a Ange y le sugirió comprar el peso de sus regalos,`
+`Los primos estaban charlando alegremente sobre cuáles serían sus regalos de Halloween este año.`
+`María se acercó a Ange y le sugirió comparar el peso de sus regalos,`
 ` pero por alguna razón, Ange sólo se quedó viendo a la nada.`
 `Tras eso, los adultos también entregaron sus regalos a Kinzo uno por uno,`
 ` recibiendo un regalo en respuesta, junto a palabras consideradas sobre su salud y preguntas sobre cómo les había ido recientemente.`
@@ -431,30 +431,30 @@
 ` Rápido, ¡al comedor!"`
 `"Todos, por aquí.`
 ` Síganme."`
-`"Llevaremos sus regalos a sus habitaciones en la casa de invitados."`
+`"Llevaremos sus regalos a sus habitaciones en la casa de huéspedes."`
 `"Por favor, sientanse libres de dejarlos aquí mientras se dirigen a almorzar."`
 `Los familiares se pusieron de pié, dejando sus regalos sobre mesas y sofás, y siguieron a Kinzo fuera del salón.`
-`... Sólo Ange se mantuvo ahí, perpleja,`
-` ... mientras se aferraba a la caja de regalo que Kinzo le había dado...`
+`... Sólo Ange quedó parada ahí, perpleja...`
+` mientras se aferraba al regalo que Kinzo le había dado...`
 `Los almuerzos de Gohda no habían decepcionado ni una sola vez.`
-`Cuando Hideyoshi dijo que los almuerzos eran la única razón por la que todos vienen a las conferencias familiares, todo el grupo rió y asintió.`
+`Cuando Hideyoshi dijo que eran la única razón por la que todos vienen a las conferencias familiares, todo el grupo rió y asintió.`
 `La comida deliciosa es capaz de mantener la conversación fluyendo.`
 `Cuánto has crecido.`
 ` ¿Cómo has estado?`
 ` Oh, ya sabes, nada mal.`
 `Fue una ocasión divertida, con todos preguntándose mutuamente las últimas noticias y riendo juntos.`
-`La familia Ushiromiya se sentaba en las comidas en una jerarquía específica,`
+`Durante las comidas, la familia Ushiromiya se sentaba en una jerarquía específica,`
 ` para que los hermanos adultos, los primos, y los cónyuges se sentaran en grupos.`
 `Eso hacía más sencillo que la conversación fluyera naturalmente.`
 `Ange se había alejado un poco de los primos para mirar a los alrededores del comedor.`
-`... ¿Qué están haciendo Kinzo y los hermanos adultos?`
+`... ¿Qué están haciendo Kinzo y los demás adultos?`
 `Su conversación parece ser pacífica y entretenida.`
-`La mayor parte del tiempo, los hermanos eran padres o madres de sus propias casas.`
+`La mayoría del tiempo, los hermanos eran padres o madres de sus propios hogares.`
 `Sin embargo, cuando estaban reunidos frente a Kinzo, ese peso abandonaba sus hombros,`
-` y se hacían jóvenes y enérgicos como si hubiesen vuelto a ser niños.`
+` y se volvían jóvenes y enérgicos como si hubieran regresado a la niñez.`
 `Rudolf, quien usualmente era un padre tranquilo pero con un aire de dignidad,`
-` se volvió tan enérgico y animado en este grupo que casi parecía haber otro Battler.`
-`Incluso Kinzo se veía relajado y tranquilo.`
+` se volvió tan enérgico y animado en este grupo que casi parecía un segundo Battler.`
+`Incluso Kinzo se veía sereno.`
 `No chistó ni una palabra sobre dinero o su herencia.`
 `De hecho, ni siquiera insultó a sus hijos o los llamó incompetentes.`
 `Sólo parecía contento como todo abuelo, genuinamente complacido de tener a toda su familia reunida por única vez este año.`
@@ -462,10 +462,10 @@
 `Sus conversaciones saltaban de tema en tema, sobre cuestiones maternales como la educación de sus hijos, el manejo en sus hogares, y la salud de la familia.`
 `Hideyoshi e incluso Nanjo se unieron.`
 `¿Y los primos?`
-`... Era imposible que una mesa tan divertida junto a un tan divertido grupo de amigos no resultara bulliciosa.`
-`María estaba en su elemento, presumiendo su conocimiento en trivia de halloween.`
+`... Era imposible que una mesa tan divertida, acompañada por un grupo de amigos tan entretenido, no resultara bulliciosa.`
+`María estaba en su elemento, presumiendo su conocimiento en trivia de Halloween.`
 `George y Jessica asentirían en señal de entendimiento. Battler diría algo estúpido, y María se reiría de él.`
-`Si quisiera, podría fácilmente unirmeles en la conversación,`
+`Si quisiera, podría fácilmente unirme en la conversación,`
 ` y también fácilmente irme de ella, cambiando mi atención hacia el postre..`
 `Era... felicidad, pura y natural.`
 `... Se sentía como disfrutar de un agradable descanso bajo los rayos del sol primaveral.`
@@ -475,14 +475,14 @@
 `"No me molesta en lo más mínimo. Pueden quedarse tanto como deseen.`
 ` Si significara ver los rostros de mis queridos nietos más seguido, le rezaría a la lluvia todos los días."`
 `"Danos un respiro. Tenemos trabajo del qué preocuparnos."`
-`"¿Por qué no abandonas tú la isla, padre?`
+`"¿Por qué no abandonas la isla, padre?`
 ` De ese modo, podrías ver a tus nietos tanto como quisieras."`
 `"Jajajaja, cierto.`
-` Vivir en una isla puede tener dar aire de majestad, ¿pero no has tenido suficiente ya?"`
+` Vivir en una isla puede dar ese aire de majestad, ¿pero no has tenido suficiente ya?"`
 `"... La ciudad es muy ruidosa.`
 ` Prefiero mucho más una isla tranquila, sin nadie más que mi familia.`
 ` Me gusta aquí."`
-`"Pero en Rokkenjima, si sucede algo, la llegada de un doctor podría demorar un tiempo considerable."`
+`"Pero en Rokkenjima, de suceder algo, la llegada de un doctor podría demorar un tiempo considerable."`
 `"Concuerdo.`
 ` A tu edad, deberías al menos considerar mudarte a Niijima."`
 `"... Sí, estoy viejo.`
@@ -495,8 +495,8 @@
 ` Damas y caballeros, el almuerzo de Gohda se ha completado.`
 ` Nietos, probablemente estará lloviendo de forma constante a partir de mañana.`
 ` Ahora es su única oportunidad de tener un cielo despejado.`
-` ¿Por qué no van a disfrutar las rosas y dar un paseo por la playa?"`
-`"Eso suena bien.`
+` ¿Por qué no van a disfrutar de las rosas y dar un paseo por la playa?"`
+`"Eso suena genial.`
 ` Muy bien, todos.`
 ` ¿Quieren ir?"`
 `"¡Uu!`
@@ -507,7 +507,7 @@
 `"Los fragmentos de vidrio arrastrados por las olas se vuelven gemas redondas y preciosas, que terminan en la orilla.`
 ` ¿Acaso lo olvidaste, Battler?`
 ` ¿No recuerdas cómo solíamos recogerlas juntos?"`
-`"Oh... ¿Esos eran pedazos de vidrio?`
+`"Oh... ¿Esos eran fragmentos de vidrio?`
 ` Siempre pensé que sólo eran gemas bonitas."`
 `"¡¿Has visto una gema de vidrio alguna vez, Ange?!"`
 `"... No."`
@@ -526,4 +526,4 @@
 ` Vayan con calma y disfruten su tiempo en compañía, nietos."`
 `Los primos se levantaron de sus asientos y ruidosamente abandonaron el comedor.`
 `María tomó a Ange de la mano y se la llevó consigo.`
-`Sin embargo, la expresión de Ange era incierta y distraída, contrario a la radiante sonrisa de María...`
+`Sin embargo, la expresión de Ange era incierta y distraída, en contraste a la radiante sonrisa de María...`
